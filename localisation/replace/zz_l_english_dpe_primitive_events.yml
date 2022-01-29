@@ -1,0 +1,7 @@
+﻿l_english:
+
+ mem_dpe_primitive_events.5.B.tooltip:0 "The [mem_dpe_primitive_civ.GetSpeciesNamePlural] will become a spacefaring [root.GetAdj] protectorate."
+
+ mem_dpe_primitive_events.5.B.tooltip.inwards_protection:0 "The [mem_dpe_primitive_civ.GetSpeciesNamePlural] will become a spacefaring [root.GetAdj] tributary."
+
+ mem_dpe_primitive_events.32.desc:0 "We cannot withstand your might, [root.GetAdj]. We surrender."

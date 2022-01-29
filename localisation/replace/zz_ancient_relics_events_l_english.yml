@@ -1,0 +1,9 @@
+﻿l_english:
+
+ ancrel.2022.desc:0 "§HSlowly, almost imperceptibly, the leaves of the last Baol shrivel in on themselves, just a little more.§! "Perhaps... perhaps that is best."\n\n§HThe machine pumping mysterious fluids in and out of the creature's body begin to sputter and hiss. It is clearly on its last mechanical gasp, and the Baol will perish without it.§!\n\n"Silence, yes. At last it approaches. We welcome it, as our brethren did so long ago. Farewell, [Root.GetAdj]. May your kin endure less agony in this world.""
+
+ ancrel.4046.c:0 "Xeno squish-brains! The [Root.Owner.GetAdj] will perfect this "Memorex"."
+
+ ancrel.4051.desc_jungle:0 "The crew clearing the jungle on [Root.GetName] has stumbled upon an unusual find. Previously obscured deep within a tangle of old withered trees, where it would seem no [Root.Owner.GetAdj] has ventured before, $ancrel.4051.desc$"
+
+ ancrel.4078.b:1 "A true [owner.GetAdj] lives off the land."

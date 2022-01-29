@@ -1,0 +1,11 @@
+﻿#By Caligula
+
+l_english:
+
+ MEM_NEOCH_FRIENDLY_GREETING_1:0 "You have wisdom beyond your years, [from.GetAdj]."
+
+ MEM_NEOCH_FRIENDLY_GREETING_2:0 "The stars will shine your path through history, [from.GetAdj]."
+
+ MEM_NEOCH_OVERLORD_GREETING_1:0 "You are wise to serve me, [from.GetAdj]. I will lead you to greatness."
+
+ MEM_NEOCH_WAR_GREETING_1:0 "Prepare to be annihilated, [from.GetAdj]. I have more experience in waging war than the entire [from.GetName] put together."

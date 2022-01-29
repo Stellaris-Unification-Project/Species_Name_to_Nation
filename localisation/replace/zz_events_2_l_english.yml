@@ -1,0 +1,65 @@
+﻿l_english:
+
+ anomaly.160.desc:0 "Images capturing [From.GetName]'s mesmerizing purple-colored rain, taken by the [Root.GetName]'s surface exploration probes, somehow find their way into the hands of the cultural elite on [Root.Owner.Capital.GetName].\n\nWhile the discovery is of no scientific value, the evocative imagery of the colorful precipitation sparks a minor renaissance in the [Root.Owner.GetAdj] art world, the positive effects of which shall be felt for years to come."
+
+ anomaly.169.desc:0 "The [Root.GetAdj] people cry out for someone to lead them in their new, old faith."
+
+ anomaly.3105.desc:1 "With the crew of the Luxion safely on their way back to [Root.Capital.GetName], disaster has been averted. The [Root.GetAdj] people are sure to glory in the decisive actions of the [Root.GetName]'s [Root.GetRulerTitle].\n\nThe situation with the kidnapping Ransomeer pirates, as well as the pirate band itself, has come to an end. Some questions remain, mainly relating to the much larger piratical navy the captives claim to have seen through portholes shortly after their capture. But, considering the circumstances, it can safely be assumed that the threat appeared to be much greater than it actually was.\n\nThe Ransomeers are over and done with."
+
+ anomaly.3128.desc:0 "The [Root.Owner.GetAdj] engineers' prodding and probing has proven fruitless. The station is too dilapidated to bring online, large sections of the structure simply collapsing under the strain of attempted reactivation.\n\nAs the manufactory's structural integrity finally failed, something, some things, emerged from its depths - cutting their way out with high-powered lasers and setting their sights on the [Root.GetFleetName]."
+
+ country.1035.desc:0 "Greetings, [Root.GetRulerTitle].\n\n[Root.GetAdj] ships are a most welcome sight. I fear my own sudden appearance in this system may have angered the alien beings aboard the ships that now surround mine.\n\nAny assistance in rectifying whatever faux pas I may have committed would be most appreciated. I will gladly share with you the nature of my expedition once this matter is settled."
+
+ country.1035.a.response:0 "Run? I left.\n\nI realize you are none too pleased with my actions, [Root.GetRulerTitle], but I could not risk my work being mired in the petty politics of the [Root.GetAdj] scientific community.\n\nBesides, I had some research to do in the field. Still do."
+
+ country.1046.desc:0 "You know I will not, [Root.GetRulerTitle].\nIn fact, having had some time to consider additional possibilities, I believe there is a significant risk I will not be able to return within a reasonable timeframe.\n\nI have taken the liberty of uploading whatever research data I have that may benefit the [Root.GetAdj] people to the databases on [Root.Capital.GetName]. The data related to the Window stays with me, though. I am starting to think I am not ready; certainly no one else is.\nI will be going now."
+
+ country.1155.b:0 "The [Root.GetAdj] people should be put at ease."
+
+ story.101.desc.phile:1 "The entities encountered by our fleets some time ago are new, wondrous, forms of spaceborne life.\n\nQuickly nicknamed "Space Amoeba" following an analyst's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.Owner.GetAdj] corvette.\n\nWe should leave it be and remotely monitor the creature and its kin from [Root.Owner.Capital.GetName]."
+
+ story.101.desc.phobe:2 "The entities encountered by our fleets some time ago are new, horrifying lifeforms.\n\nQuickly nicknamed "Space Amoeba" following an analyst's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.Owner.GetAdj] corvette.\n\nThere would be little harm in putting the monstrosities out of their misery.\n\nFor science, or some equivalent."
+
+ story.101.desc.milit:2 "The entities encountered by our fleets some time ago are spaceborne forms of life.\n\nQuickly nicknamed "Space Amoeba" following a tactician's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.Owner.GetAdj] corvette.\n\nThe creature displays aggressive behavior towards [Root.Owner.GetAdj] ships but further study might be warranted."
+
+ story.101.desc.pacif:1 "The entities encountered by our fleets some time ago are new, spaceborne lifeforms.\n\nQuickly nicknamed "Space Amoeba" following an analyst's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.Owner.GetAdj] corvette.\n\nDespite its apparent orneriness, further study is warranted - we can remotely monitor the creature and its kin from [Root.Owner.Capital.GetName]."
+
+ story.101.desc.mater:2 "The entities encountered by our fleets some time ago are spaceborne forms of life.\n\nQuickly nicknamed "Space Amoeba" following an analyst's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.Owner.GetAdj] corvette."
+
+ story.101.desc.gesta:1 "The entities encountered by our fleets some time ago are new, spaceborne lifeforms.\n\nWhile significantly larger than a [Root.Owner.GetAdj] Corvette, these "Space Amoeba" herds are minuscule next to our full corpus."
+
+ story.101.desc:1 "The entities encountered by our fleets some time ago are new, spaceborne lifeforms.\n\nQuickly nicknamed "Space Amoeba" following an analyst's gross misreading of initial sensor output, the creature is in fact larger than the average [Root.GetAdj] corvette."
+
+ uplift.6061.desc:0 "The [From.GetName], risen from the icy plains of [Root.GetName], have achieved sapience with [Root.Owner.GetAdj] help.\n\nThey have joined our colony on their native planet [Root.GetName] as productive members of [Root.Owner.GetName] society."
+
+ colony.1511.desc:0 "We have captured the drones and fitted them with explosive charges. Reprogramming them proved to be a relatively easy task now that we know how to break them open, and we have plotted a course for the estimated location of the pirate fleet. Top [Root.Owner.GetAdj] scientists have implemented our own IFF technology to minimize the risk of the drones attacking innocents."
+
+ fallen_empires.2.desc:1 "As if to punish us for not only warring with the Stagnant Ascendancy of the [From.GetName] but for then accepting defeat, [From.GetAdj] agents appeared by [Root.GetRulerTitle] [rulername.GetName]'s side after the peace negotiations concluded.\n\nThey dispatched our [Root.GetRulerTitle] with unseen weaponry and practiced brutality before melting away as if they were never there."
+
+ fallen_empires_tasks.24.tooltip:1 "A Pop of the long-dead §H[FallenEmpireDeadSpecies.GetSpeciesName]§! species will be created in the [FallenEmpireTaskOrigin.GetAdjective] Endangered Species Preserve."
+
+ fallen_machine_empire.4.desc:0 "At the very moment that the last Contingency Machine World self-destructed, our instruments detected a subspace signal of immense strength. The signal originated from §H[From.GetName]§! space and appears to have been aimed towards the galactic core. Over the next few hours, scattered reports came in of [From.GetAdjective] fleets vanishing from sensors, entering jump points to familiar systems but never emerging on the other side.\n\nA scout vessel near [From.GetSpeciesName] space was sent to investigate, and reported back startling findings: The ancient machine intelligence has disappeared entirely, leaving behind only abandoned orbital stations and decaying megastructures.\n\nWhere they have gone to is a mystery we may never solve, but one thing is clear: The task that the [From.GetSpeciesName] set for themselves in ages past is now complete, and their ancient vigil is finally at an end."
+
+ fallen_empires_awakening.2.desc:0 "It began as a subtle shift in §H[From.GetAdjective]§! behaviour. Scattered reports of their ships, once rarely seen outside their own space, now being spotted in remote systems all across the galaxy. Highly advanced scouting vessels visiting ancient, ruined worlds, refusing all hails and fleeing when attacked. Their purpose and mission unknown... until now.\n\nWe now know that the [From.GetSpeciesName] were preparing, recovering the databanks of survey beacons and automated scouting posts left behind when they retreated to their present borders. Gathering information for their return to the galactic stage.\n\nIn [From.GetSpeciesName] space, fleets are gathering, armies are being mustered and ancient factories roar to life. For the first time in an age, the §H[From.GetName]§! are looking outwards beyond their borders and towards the galaxy at large.\n\nAs their decaying shipyards are repaired and refitted and the dormant systems of Titan foundries come online, the rest of the galaxy is left with only one question - who will this once-sleeping giant target first in their quest to reclaim age-old glory lost?"
+
+ nomad.10.desc:0 "Cold days and warm nights upon you, [Root.GetAdj] [Root.GetRulerTitle]. We are [contact_speaker_leader.GetName]. We speak on behalf of all the Namarian souls aboard the collected ships of the Pursuing Waters, our nomadic fleet.\n\nYou have nothing to fear from us, as the fleet has no interest in orb-bound affairs. We ask only that you respect our autonomy and do not hinder us on our journey."
+
+ nomad.21.desc:0 "Greetings again, [Root.GetAdj] [Root.GetRulerTitle]. We have a request for you. As we travel the void some of our people grow weary and lose sight of our goal. We are no tyrants, we force no one to see our quest to the end. So we ask of you: will you take some of our people in? To dwell on your orb, the one named [NomadMissionPlanet.GetName]?"
+
+ nomad.30.desc_01:0 "Cold days and warm nights upon you, [Root.GetAdj] [Root.GetRulerTitle]."
+
+ nomad.30.desc_02:0 "Pleasant winds to you, [Root.GetAdj] [Root.GetRulerTitle]. We hope you are doing well."
+
+ nomad.41.desc:1 "Pleasant winds to you, [Root.GetAdj] [Root.GetRulerTitle]. We have found that the orb you call §Y[NomadMissionPlanet.GetName]§! is not currently being held by your people. We ask of you: could you let one of our tribes land upon it and make it a new home?\n\nWe realize we ask much of you - to lose an entire system to give our people a home. We await your decision, whatever it may be."
+
+ nomad.41.c.response:0 "Sailing the voids-between is an arduous journey, and yet only a step on an already strenuous path. Our people simply seek rest, and thought that §Y[NomadMissionPlanet.GetName]§! fulfilled their needs.\n\nWill you grant them this rest, [Root.GetAdj] [Root.GetRulerTitle]?"
+
+ nomad.110.desc:0 "We come to you with a most urgent request, [Root.GetAdj] [Root.GetRulerTitle]. The fleet is being attacked by [attacker_country.GetName] and it needs your help!"
+
+ nomad.511.desc:1 "A refreshing answer, [Root.GetAdj] [Root.GetRulerTitle]. All we ask in return is £minerals£ §Y2000§! or £energy£ §Y2000§!."
+
+ nomad.522.desc:1 "They accepted a similar offer, and §Y5§! additional craft are set to be shipped to the [other_empire.GetAdj] oasis of [other_empire.Capital.GetName]. We would rather the fleet's ships do not end up in service of the [other_empire.GetName], and we would like your help."
+
+ nomad.522.c.reply:0 "We have privileged access to the autopilot configurations in the caravan's shipyards. Simply setting all vessels to rally at [Root.Capital.GetName] - and not sending half of them to the [other_empire.GetAdj] orb of [other_empire.Capital.GetName] - is trivial for us. We wouldn't even get caught."
+
+ nomad.523.desc:0 "We would need something to show for it. Even £energy£ §Y1000§! would be more than whatever the fleet would get out of the [other_empire.GetAdj] orb-dwellers."

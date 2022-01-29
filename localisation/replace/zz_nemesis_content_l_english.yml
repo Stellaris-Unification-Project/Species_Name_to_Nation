@@ -1,0 +1,265 @@
+﻿l_english:
+
+ crisis.4140.desc:2 "For a long time we [Root.GetSpeciesNamePlural] have known that we are meant for greater things. That our destiny was nothing less than the fate of the universe itself.\n\nOver the last couple of years this notion has grown stronger to the point that it can no longer be denied that great change is coming for [Root.GetAdj] society. In fact we stand on the precipice right now.\n\nThe galaxy may not be ready for our inevitable dominion, but the [Root.GetName] is ready for the galaxy. We will be misunderstood. We will be opposed. But we will not be stopped."
+
+ crisis.4150.desc:1 "The years go by, and yet the fires within each [Root.GetAdj] burns with unshakable determination. Our dominion is expanding and so is the magnitude of our efforts.\n\nAs we encounter other empires we only have to give them two options: unconditional allegiance or complete annihilation. That is, if they are given an option at all.\n\nOne way or the other, the [Root.GetName] keeps growing."
+
+ crisis.4155.desc:2 "A great change is coming. The [Root.GetName] is on the verge of realizing our supreme goal. Each and every [Root.GetAdj] feel it with every fiber of their being - our destiny is at hand.\n\nOur experience - nay, our very history - of forceful expansion still rewards us with new ways to subjugate our enemies and usurp control of a galaxy in turmoil.\n\nSurely those who dare stand against us must see the futility of their whimpering efforts."
+
+ espionage.10.desc:2 "Our presence in the §Y[from.target.GetName]§! has taken on a clandestine aspect. $role_spymaster$ [from.leader.GetName] is now situated at the core of a burgeoning §HSpy Network§! in [from.target.GetAdj] space."
+
+ espionage.11.desc:2 "Our presence in the §Y[from.target.GetName]§! has taken on a clandestine aspect: $role_spymaster$ [from.leader.GetName] has engaged Espionage protocols. Our newly-established §HSpy Network§! will allow us to observe [from.target.GetAdj] activities, infiltrating and intervening where necessary."
+
+ espionage.17.desc:2 "We have received our first clandestine report from $role_spymaster$ [from.leader.GetName], inside the §Y[from.target.GetName]§!. This heralds the foundation of our first §HSpy Network§! within a xeno empire. From this day forward, they too will realize the formative benefits of [owner.species.GetAdj]-honed information control..."
+
+ espionage.1011.desc:1 "There have been no further messages from our disavowed operative within the §Y[disavowed_agent_country.GetName]§!. The matter is being considered as resolved.\n\nWe may never know if there really was a former operative - nor will we know if there actually was useful intelligence to be had. If this was instead a [disavowed_agent_country.GetAdj] ruse: we can safely state that their ploy has failed."
+
+ espionage.1012.desc:1 "We have received a rather brusk statement from the §Y[disavowed_agent_country.GetName]§!. They claim to have been approached by a §Hformer [root.GetAdj] spy§!, and that we are to be held to account. Furthermore, this individual is set to suffer every punishment their society has set for 'foreign agents'.\n\n$espionage.1012.desc.end$"
+
+ espionage.1012.desc.governor:1 "We have received a rather brusk communiqué from [disavowed_agent_governor.GetName] of the §Y[disavowed_agent_country.GetName]§!. [disavowed_agent_governor.GetHeSheCap] claim[disavowed_agent_governor.GetSXX] to have been approached by someone who had, in turn, identified themself as a §Hformer [root.GetAdj] spy§!. The [disavowed_agent_country.GetAdj] representative used few words, but keenly expressed their empire's narrow tolerance for 'foreign agents'.\n\n$espionage.1012.desc.end$"
+
+ espionage.1013.desc:1 "We have received an unusual statement from the §Y[disavowed_agent_country.GetName]§!, claiming they have been approached by a §Hformer [root.GetAdj] spy§!. If the message is to be believed, the disavowed operative not only exists, but felt no recourse other than to defect - only to be dismissed outright by [disavowed_agent_country.GetAdj] authorities. Or so the message claims.\n\nThe [disavowed_agent_country.GetName] do not state precisely what their next course of action will be, but such an individual would almost certainly be placed under close observation for as long as they remain there. As a formality, the [disavowed_agent_country.GetName] have issued a diplomatic sanction against us for this 'violation of sovereign territory'."
+
+ espionage.1016.desc.end:0 "A specially-chosen task force was able to confirm the existence of this individual - before swiftly ending it. However, no one can be certain if this was a genuine operative, or part of a [disavowed_agent_country.GetAdj] ploy.\n\nEither way: both the operative's existence and the information they claimed to hold have now been put safely beyond the reach of either empire."
+
+ espionage.1017.desc:1 "The clandestine strike team we sent into the §Y[disavowed_agent_country.GetName]§! have returned with great haste. It seems there never was a disavowed operative. Instead what the team found was subtle evidence of a plot to expose our clandestine operations.\n\nPerhaps this was a scheme intended to further [disavowed_agent_country.GetAdj] goals; perhaps an external body sought to meddle in our affairs. In either case: our containment measures were aborted just in time to avoid exposing our intelligence operations, past or present."
+
+ espionage.1021.desc:4 "Our once-disavowed operative has made it back to [root.GetAdj] space. This §H[disavowed_agent_country.GetAdj] individual§! - who identified [disavowed_operative.GetHimselfHerself] as [disavowed_operative.GetName] - appears nervous and relieved, but has cleared all security verification. The debriefing has been described as arduous, but the information has proven to be useful - we have now gained access to a valuable §YAsset§!.\n\nWith the matter now resolved, [disavowed_operative.GetName]'s shaky disavowal will be renewed. Having confirmed that [disavowed_operative.GetHeShe] [disavowed_operative.GetIsAre] no longer missing in action, our current operatives can ensure that this time, the disavowal will stick."
+
+ espionage.1040.desc.caughtspies:1 "We have have trapped a group of §P[luckycatch_country.GetAdj] spies§!. It seems they were engaged in an operation against us, the details of which are unknown to us yet.\n\nThrough our interrogations, however, we have gathered some small amount of Intel on the §H[luckycatch_country.GetName]§!. Our $role_spymaster$ now also has access to a local §YAsset§! with which we can press this advantage."
+
+ espionage.1050.desc:1 "A particularly observant operative in the §Y[finderskeepers_country.GetName]§! has laid their [root.species.GetHandNamePlural] on part of a §H[finderskeepers_country.GetAdj] encryption key§!. It would seem a careless [finderskeepers_country.GetAdj] $job_administrator$ mislaid the device whilst commuting.\n\nThis bodes well enough for our operations in the [finderskeepers_country.GetName], but our study of the device's unique design has revealed novel insights for our general approach to §Y$MOD_INTEL_DECRYPTION_ADD$§!."
+
+ espionage.1070.desc.identified.intro:1 "Our Encryption measures have caught a band of dangerous infiltrators. These would-be hostiles appear to be working on behalf of the §H[hostile_infiltration_country.GetName]§!, on a scheme which would have cost many [root.species.GetAdj] lives and caused us significant damage."
+
+ espionage.1070.desc.identified.hostile:1 "$espionage.1070.desc.identified.intro$\n\nAmongst the materials we forcibly extracted from them were a number of communication logs, which we have managed to decrypt. None describes the full scope of their plans against us; [hostile_infiltration_country.GetAdj] security seems at least capable enough to yield only patchy Intel to us. Everything else we may extract from them is deemed unreliable information.\n\nDespite the justified outrage we may wish to express, we would be wise to consider our response. We could keep quiet about our own Encryption skill, feigning ineptitude in front of our enemies. Were we to expose the [hostile_infiltration_country.GetName] for this planned act of violence against us, however, we might find those enemies even regarding us with sympathy."
+
+ espionage.1081.desc.outro:0 "Quite how this information came to be known by the [insidious_plot_spynetwork.GetAdj] is unclear. Our own operatives' efforts to tail suspected [insidious_plot_spynetwork.GetAdj] intelligence operatives seem to have paid off, though. If this intelligence is genuine, the [insidious_plot_spynetwork.GetAdj] may just have done the hard work of gathering it for us."
+
+ espionage.1081.desc.samecountry:0 "Our operatives in the §Y[insidious_plot_spynetwork.GetName]§! have uncovered credible rumors of a local plot against us. It seems their §H[insidious_plot_country.GetAdj]§! counterparts are somewhat careless about their own operational secrecy.\n\nWe have no exact details for their apparent scheme yet, but it's said to involve a manipulation of our existing relationships - undermining agreements of trust and our very way of life."
+
+ espionage.1085.desc.neverspied:0 "Amazingly, we have been implicated in some vaguely-defined plot against the §H[from.GetName]§!. It's a ridiculous allegation, given our complete lack of foreign espionage activity so far - but then, the [from.GetAdj] would have no way of knowing how truly ridiculous the allegation is.\n\nIt would seem that parties unknown are attempting to frame us for their own misdemeanors - or perhaps simply to sow some diplomatic chaos. Whatever the reason or cause, the [from.GetName] have taken offense."
+
+ operation.1006.desc.celebrity:1 "$operation.1006.desc.intro$ Our Spy Network now has access to §Han influential figure within [from.target.GetAdj] culture§!, whose desire to maintain their public profile pairs splendidly with ambitions we may wish to wield, to manipulate hearts and minds."
+
+ operation.1006.desc.official:1 "$operation.1006.desc.intro$ We have secured access to §Han official within the [from.target.GetAdj] civic hierarchy§!. This Asset will be kept secure but poised, ready to assist us with future operations - particularly when we might brush up against diplomatic or governmental issues."
+
+ operation.1006.desc.professional:1 "$operation.1006.desc.intro$ Our Spy Network is now bolstered by access to §Han influential [from.target.GetAdj] professional§!, ready to assist us with operations which may benefit from the Asset's own network contacts, or the weight of their reputation."
+
+ operation.1006.desc.rebel:1 "$operation.1006.desc.intro$ We have won the loyalty of §Ha [from.target.GetAdj] rebel§!, whose desire for disruptive change may easily be molded to suit our goals as well."
+
+ operation.1006.desc.underling:1 "$operation.1006.desc.intro$ We have lured §Han underappreciated member of the [from.target.GetAdj] citizenry§!, whose attitude and contacts amongst the lower rungs of society are sure to aid our Operations in various ways."
+
+ operation.1006.desc.drone:1 "$operation.1006.desc.intro$ Our Spy Network has secured access to §Ha modified [from.target.GetAdj] drone§!, the benefits of which will be obvious whenever we might wish to infiltrate or otherwise manipulate the [from.target.GetName] entity."
+
+ operation.1006.desc.default:0 "$operation.1006.desc.intro$ We have secured a valuable Asset which will bolster our intelligence-gathering and espionage activities inside [from.target.GetAdj] space."
+
+ operation.1020.desc.conf_hosted:1 "Our undercover operatives are dispersed throughout a promising-looking conference being held in [root.target.GetAdj] space. They have begun scouting potential targets."
+
+ operation.1020.desc.conf_external:2 "Our operatives have secured attendance at an interstellar, scientific conference to which the [root.target.GetName] have also been invited. Our efforts are focused on scouting only the [root.target.GetAdj] delegation."
+
+ operation.1020.desc.theft:2 "Our operatives have begun surveilling a [root.target.GetAdj] research facility. Wherever an entry point exists, we shall exploit it."
+
+ operation.1020.desc.enigmatic:0 "$role_spymaster$ [spynetwork.leader.GetName] reports that our operatives have met an insurmountable obstacle: [target.GetAdj] engineering appears to have advanced and deviated far from our own.\n\nAny technology we might hope to steal from them would be §Hinscrutable§! to us - as well as incompatible with what we currently possess."
+
+ operation.1021.desc.theft:1 "Our operatives have found an opening - an ideal foundation upon which to build our plans to infiltrate [root.target.GetAdj] research."
+
+ operation.1022.desc.theft:1 "Our operatives have now performed numerous test runs, the results of which concur with favorable forecasts from $role_spymaster$ [root.spynetwork.leader.GetName]. We stand ready to make our attempt on coveted [root.target.GetAdj] research."
+
+ operation.1026.name:0 "[fromfrom.target.GetAdj] Research Secured"
+
+ operation.1026.desc.goods.smooth:1 "$operation.1026.desc.intro$\n\nA single operative hid within the §Hgoods entrance§! of a remote research facility, waiting to be couriered past a number of clearly-inadequate [fromfrom.target.GetAdj] security measures. An unwitting [fromfrom.target.GetSpeciesAdj] has placed our operative within easy reach of a terminal for the [fromfrom.target.GetName] central repository.\n\n$operation.2016.desc.outro.smooth$"
+
+ operation.1026.desc.invited.smooth:1 "$operation.1026.desc.intro.smooth$ Our operative's cover held throughout, and although the [fromfrom.target.GetAdj] exercised reasonable security: the §Htrust we manufactured§! was just sufficient to grant us our window of opportunity.\n\n$operation.2016.desc.outro.smooth$"
+
+ operation.2016.desc.outro.smooth:2 "A complex series of electronic blinds and bluffs has exposed the research database for just long enough to make our move. [fromfrom.target.GetAdj] security will clamp down tightly after we're done here."
+
+ operation.1026.desc.intro.messy:0 "Our infiltration of [fromfrom.target.GetAdj] science has succeeded, however some of our operatives now appear to be at risk."
+
+ operation.1026.desc.invited.messy:1 "$operation.1026.desc.intro.messy$ Our lead operative's cover held long enough to complete their extraction, but their §Hcredentials§! have now been exposed as false. [fromfrom.target.GetAdj] security has been alerted to their presence.\n\n$operation.1026.desc.outro.messy$"
+
+ operation.1027.desc:0 "$role_spymaster$ [from.spynetwork.leader.GetName] has submitted a report on Operation [from.GetName], inside the §H[from.target.GetName]§!. It seems that [from.target.GetAdj] science and engineering have advanced to the point of bamboozling our expert operatives. They claim that the underlying technology has deviated greatly from our own, meaning that even if we could somehow steal their research, the resulting hardware would be incompatible with ours.\n\n$role_spymaster$ [from.spynetwork.leader.GetName] suggests that we appropriate such secrets elsewhere."
+
+ operation.2000.desc.cargo:1 "$operation.2000.desc.intro.hostile$ Its hold is packed with what will appear to [target.owner.GetAdj] scanners as $rare_crystals$ and other precious minerals. We trust that the bare-faced simplicity of this strategy will serve as its own bluff."
+
+ operation.2000.desc.derelict:1 "$operation.2000.desc.intro.hostile$ The ship is rigged for a non-lethal explosion as it approaches the [target.owner.GetAdj] border - as close as it can get to the §H[target.solar_system.GetName] system§!. Radiation will appear to flood the interior of the vessel as our operatives secrete themselves within its invisibly-shielded core."
+
+ operation.2000.desc.invalid:0 "Our operatives report drastic changes within the [root.target.owner.GetAdj] interior: our target is no longer viable."
+
+ operation.2005.desc.outro:1 "We must now consider the deniability of our own actions. Any future operations in [sabotaged_starbase_owner.GetAdj] space will require us to maintain as much cover as we can - that is, assuming we wish to prioritize such discretion..."
+
+ operation.2006.desc:2 "$role_spymaster$ [from.spynetwork.leader.GetName] reports that [from.spynetwork.leader.GetHisHer] team of operatives must abandon their efforts to sabotage the §H[sabotaged_starbase_owner.GetAdj] starbase§! in the §Y[sabotaged_starbase_system.GetName] system§!. Drastic changes to the [sabotaged_starbase_owner.GetAdj] interior have made our efforts so far redundant. We would be wise to choose a different target."
+
+ operation.3000.desc.single:1 "We have found a promising target - the §H[event_target:smear_option_1.GetName]§! - whose relationship with the §Y[root.target.GetName]§! benefits [root.target.GetAdj] interests to our own detriment."
+
+ operation.3001.desc.spirit.ridic:1 "$operation.3001.desc.spirit.intro$ We will spread credible rumors that [smear_campaign_recipient.GetAdj] ritual practices are the subject of open ridicule in [root.target.GetAdj] political circles."
+
+ operation.3001.desc.spirit.deity:1 "$operation.3001.desc.spirit.intro$ We will fabricate a [root.target.GetAdj] campaign targeting those outside of the priest caste in the [smear_campaign_recipient.GetName]. An attempt to disrupt the politics of their religious order is bound to offend those who run it."
+
+ operation.3001.desc.milit.intro:1 "We will work to suggest that the [root.target.GetName] are undermining the [smear_campaign_recipient.GetAdj] military."
+
+ operation.3001.desc.milit.study:1 "$operation.3001.desc.milit.intro$ We can suggest that [root.target.GetAdj] interests in the [smear_campaign_recipient.GetName] are solely motivated by studying their military secrets, and that they might go as far as instigating war to test any weaknesses they've exposed."
+
+ operation.3001.desc.milit.priso:1 "$operation.3001.desc.milit.intro$ Should the [root.target.GetName] be accused of withholding [smear_campaign_recipient.species.GetAdj] prisoners of war with the intention of indoctrinating them, for example..."
+
+ operation.3001.desc.milit.pacif:1 "$operation.3001.desc.milit.intro$ Rumors of a breakthrough in [root.target.GetAdj] technology which would forcibly pacify neighbors like the [smear_campaign_recipient.GetName], for example..."
+
+ operation.3001.desc.phobe.genes:1 "$operation.3001.desc.phobe.intro$ For example: were the [root.target.GetName] to be caught selling gene therapies based on [smear_campaign_recipient.species.GetAdj] biology, they are bound to take umbrage."
+
+ operation.3001.desc.phobe.abduc:1 "$operation.3001.desc.phobe.intro$ We will seed ideas about a [root.target.GetAdj] plot to abduct [smear_campaign_recipient.species.GetAdj] citizens and indoctrinate them into accepting a more open galaxy."
+
+ operation.3001.desc.egal.migra:1 "$operation.3001.desc.egal.intro$ Were the [root.target.GetName] to be caught dishonoring their migration treaty, and singling out [smear_campaign_recipient.species.GetAdj] citizens for worse jobs, offense would have to be taken."
+
+ operation.3001.desc.egal.galco:1 "$operation.3001.desc.egal.intro$ We shall lay hints of a [root.target.GetAdj] plot to sabotage their political standing within the Galactic Community."
+
+ operation.3001.desc.egal.elect:1 "$operation.3001.desc.egal.intro$ We can supply hard-to-ignore evidence of a [root.target.GetAdj] plot to infiltrate the [smear_campaign_recipient.GetAdj] political system and meddle in their elections."
+
+ operation.3001.desc.mat.intro:1 "We will paint the [root.target.GetName] as jealous and greedy neighbors, keen to exploit and abuse [smear_campaign_recipient.GetAdj] science."
+
+ operation.3001.desc.mat.droid:1 "$operation.3001.desc.mat.intro$ We shall concoct a movement within the [root.target.GetName] to steal [smear_campaign_recipient.GetAdj] droids, bypassing their own limited means of production."
+
+ operation.3001.desc.mat.singu:1 "$operation.3001.desc.mat.intro$ A [root.target.GetAdj] threat of sparking a controlled, AI-driven singularity within the [smear_campaign_recipient.GetAdj] datasphere ought to draw their attention and ire."
+
+ operation.3001.desc.mat.sabot:1 "$operation.3001.desc.mat.intro$ That the [root.target.GetAdj] might be plotting to sabotage that scientific research would be sure to draw some sort of reaction from them."
+
+ operation.3001.desc.pacif.intro:1 "We will appeal to the fears of [smear_campaign_recipient.GetAdj] pacifism, pinning violent agendas upon the [root.target.GetName]."
+
+ operation.3001.desc.pacif.gunrun:1 "$operation.3001.desc.pacif.intro$ For example: the [smear_campaign_recipient.GetAdj] administration will not enjoy hearing that the [root.target.GetAdj] have profited off a gun-running operation through their space."
+
+ operation.3001.desc.pacif.vassal:1 "$operation.3001.desc.pacif.intro$ News of a [root.target.GetAdj]-run program to arm breakaway factions inside client states of the [smear_campaign_recipient.GetName] is bound to cause outrage."
+
+ operation.3001.desc.pacif.border:1 "$operation.3001.desc.pacif.intro$ We will concoct evidence that sleeper factions, loyal to the [root.target.GetName], are poised to spark border skirmishes around [smear_campaign_recipient.GetAdj] space."
+
+ operation.3001.desc.phile.slavery:1 "$operation.3001.desc.phile.intro$ Fabricated news that [smear_campaign_recipient.species.GetAdj] slaves are being specifically sought out by the [root.target.GetName] is bound to cause offense."
+
+ operation.3001.desc.auth.intro:1 "We will lean into the authoritarian nature of the [smear_campaign_recipient.GetName], portraying the [root.target.GetName] as agents of chaos for the [smear_campaign_recipient.GetAdj] regime."
+
+ operation.3001.desc.auth.mockery:1 "$operation.3001.desc.auth.intro$ Evidence that the [smear_campaign_recipient.GetAdj] leader [smear_campaign_recipient.leader.GetName] is a subject of outright mockery in [root.target.GetAdj] political circles is likely to raise their ire."
+
+ operation.3001.desc.auth.discord:1 "$operation.3001.desc.auth.intro$ We will fabricate evidence of a plot to seed operatives throughout [smear_campaign_recipient.GetAdj] society, to agitate and steer them towards other, nefarious goals."
+
+ operation.3001.desc.auth.experim:1 "$operation.3001.desc.auth.intro$ We will suggest that the [root.target.GetName] is running subtle, sociological experiments behind the scenes of [smear_campaign_recipient.GetAdj] society as a testbed for theories of statecraft and control."
+
+ operation.3001.desc.corp.resells:2 "$operation.3001.desc.corp.intro$ We will make it seem as though the [root.target.GetName] are abusing their commercial pact by re-selling [smear_campaign_recipient.GetAdj] goods at a steep mark-up."
+
+ operation.3001.desc.corp.knockof:1 "$operation.3001.desc.corp.intro$ Evidence that the [root.target.GetName] have stocked warehouses full of cheap imitations of [smear_campaign_recipient.GetAdj] wares is sure to provoke a response. It would appear to be a credible attack on their core, mercantile industry."
+
+ operation.3001.desc.hive.toxin:0 "$operation.3001.desc.hive.intro$ Details of a plot to smuggle toxins onto the [smear_campaign_recipient.GetAdj] capital are likely to provoke fear and suspicion."
+
+ operation.3001.desc.machine.asset:1 "$operation.3001.desc.machine.intro$ We shall fabricate evidence of an entire department within the [root.target.GetName], dedicated to the capture and manipulation of [smear_campaign_recipient.GetAdj] drones."
+
+ operation.3001.desc.machine.milit:1 "$operation.3001.desc.machine.intro$ We will suggest that [smear_campaign_recipient.GetAdj] drones are being captured for training exercises, as part of a [root.target.GetAdj] scheme to one day launch a direct attack on the machine intelligence."
+
+ operation.3005.name:1 "[fromfrom.GetAdj] Smear Campaign"
+
+ operation.3005.desc.intro:1 "The word is out; our exaggerated truth about the §H[from.target.GetName]§! is now working its way through §Y[smear_campaign_recipient.GetAdj]§! diplomatic channels."
+
+ operation.3010.desc:2 "$operation.3010.desc.intro$ Our Encryption protocols have flagged a recent, 'anonymous' communication about our [smear_campaign_target.GetAdj] neighbors, designed to have us believe they were plotting aggressive and covert actions against us.\n\n$operation.3010.desc.outro$"
+
+ operation.3011.desc:2 "$operation.3010.desc.intro$ Our Encryption protocols have flagged a series of strange and almost-anonymous messages. They comprise a dossier of slander against us, supposedly authored by our [smear_campaign_target.GetAdj] neighbors - but the assertions are, in fact, elaborate fakes.\n\n$operation.3010.desc.outro$"
+
+ operation.3012.desc:2 "$operation.3010.desc.intro$ We scrutinized a recent communication from an 'anonymous' source, whose intent was to expose an elaborate [smear_campaign_target.GetAdj] scheme against us - only it is, in fact, a complete fabrication. Our Encryption protocols have proven resilient, and reveal a [from.GetAdj] plot beneath.\n\n$operation.3010.desc.outro$"
+
+ operation.3020.desc.insult:1 "The §Y[smear_campaign_recipient.GetName]§! have approached us with a delicately-worded dossier on the §H[smear_campaign_instigator.GetName]§!, who seem to wish us ill. If the [smear_campaign_recipient.GetAdj] files are to be believed, the [smear_campaign_instigator.GetName] intended to damage any relationship between us and the [smear_campaign_recipient.GetName] by seeding slanderous lies in our name.\n\n$operation.3020.desc.outro$"
+
+ operation.3020.desc.outro:2 "Although the [smear_campaign_instigator.GetAdj] operation was carried out in secrecy, it was apparently no match for [smear_campaign_recipient.GetAdj] Encryption. Instead of keeping that knowledge to themselves, they have chosen to open their files to us."
+
+ operation.4000.desc.single:0 "$role_spymaster$ [spynetwork.leader.GetName] has assembled a team of highly-trained operatives who will seek to lure the §P[crisis_beacon_option_1.GetName]§! directly into §H[target.GetAdj]§! territory. The team is not expected to return."
+
+ operation.4001.desc:0 "Our researchers and operatives have prepared for a wide variety of mission variables, and the task team has departed for an uncharted region of space between §Y[target.GetAdj] territory§! and the §P[crisis_beacon_crisis_country.GetName]§!."
+
+ operation.4005.desc.contingency:0 "Our researchers can only speculate upon the quick and adaptive thinking employed by our operatives when they successfully lured a fleet from the ongoing $CRISIS_TYPE_CONTINGENCY$ threat. Whether by an elaborate protocol hacking or by fabricating some sort of loophole override, our remote scans now confirm a hostile presence in transit between the §Y[crisis_beacon_crisis_system.GetName] system§! and the [crisis_beacon_target_country.GetAdj] capital, §Y[crisis_beacon_target_capital.GetName]§!.\n\nWhether or not the §Y[crisis_beacon_target_country.GetName]§! have other ongoing concerns during these turbulent times: our actions have ensured they shall have at least one more pressing matter to attend to."
+
+ operation.4005.desc.graytempest:0 "Drawing the focused attention of entities as piecemeal as this so-called §PGray Tempest§! was no mean feat. Our operatives succeeded by way of a one-shot, modulating carrier wave pointed squarely in the direction of the §H[crisis_beacon_target_country.GetName]§!.\n\nConstructing this wave was a fraught effort, as the distance between the §Y[crisis_beacon_crisis_system.GetName] system§! and the [crisis_beacon_target_country.GetAdj] capital, §Y[crisis_beacon_target_capital.GetName]§! requires an unprecedented amount of energy. Our team resorted to triggering an uncontrollable chain reaction in the power banks of a long-range transmitter. The device held together just long enough to beam our lure across hyperspace.\n\nLong-distance telemetry suggests that a Nanite Swarm is now making its way towards the §Y[crisis_beacon_target_country.GetName]§!. Our researchers also note readings of a catastrophic explosion in the vicinity of [crisis_beacon_crisis_system.GetName] - believed to be the site of our operatives' fatal endeavor."
+
+ operation.4005.desc.marauders:0 "Despite their recent attempts at unity, §Pthe [raider_khanate.GetName]§! have proven an uncomplicated prey to bait in anger. Our team worked hard to antagonize one admiral in particular, whose boiling rage is now being directed at faster-than-light speeds toward the [crisis_beacon_target_country.GetAdj] capital, §Y[crisis_beacon_target_capital.GetName]§!.\n\nOur operatives are resolute that any starbase unfortunate enough to lie between the §Y[crisis_beacon_crisis_system.GetName] system§! and the [crisis_beacon_target_country.GetName] will play chaotic host to this small band of marauders. Let us hope this sacrifice is not in vain."
+
+ operation.4005.desc.swarm:0 "Our research into the biological drives of the §P$CRISIS_TYPE_PRETHORYN$§! was conducted swiftly, but has proven effective. We devised a synthetic compound - expensive to produce, and dangerous to transport - which has succeeded in luring a fleet away from the Swarm.\n\nSo adhesive is this compound that the fate of our operatives is now as bleak as that of any starbase which lies between the §Y[crisis_beacon_crisis_system.GetName] system§! and the [crisis_beacon_target_country.GetAdj] capital, §Y[crisis_beacon_target_capital.GetName]§!. The moment our operatives released the beguiling chemical, their fate was sealed.\n\nRather than flee and risk confusing the swarm's route, our team will instead spend what remaining time they have ensuring that the trail remains intact. The §H[crisis_beacon_target_country.GetName]§! will soon experience the results of our sacrifice."
+
+ operation.4005.desc.unbidden:1 "Our efforts against the §P$CRISIS_TYPE_UNBIDDEN$§! have paid off, though the cost was certainly steep. Our operatives have successfully duped an extra-dimensional fleet into thinking one of their dimensional anchors is under threat, deep inside [crisis_beacon_target_country.GetAdj] territory. Ships are now en route to §Y[crisis_beacon_target_capital.GetName]§! from the §Y[crisis_beacon_crisis_system.GetName] system§!.\n\n$role_spymaster$ [from.spynetwork.leader.GetName] will continue to monitor the situation, but it is unlikely we will see our operatives returned to us. We must now watch, and trust that our lure serves our plan."
+
+ operation.4005.a.tooltip:0 "The §P[crisis_beacon_crisis_fleet.GetName]§! is now en route to the §Y[crisis_beacon_target_country.GetAdj] capital§!."
+
+ operation.5002.desc:4 "Despite our best efforts, we cannot restore contact with our operatives in the §H[fromfrom.target.GetName]§!. $role_spymaster$ [fromfrom.spynetwork.leader.GetName] has ordered a review of monitoring procedures for our Spy Network there; it is possible the [fromfrom.target.GetAdj] have more sophisticated §HEncryption§! than we had thought.\n\nMeanwhile, §HOperation [fromfrom.GetName]§! will resume at a reduced capacity while we recoup our losses."
+
+ operation.5015.desc:1 "We are losing contact with our operative drones as they enter steadily more secure areas in the §H[from.target.GetName]§!. There is a chance we could lose our presence there altogether. These interruptions are likely caused by sloppy [from.target.GetAdj] shielding technology putting out noisy interference."
+
+ operation.5016.desc:1 "We have lost all contact with our operatives assigned to §HOperation [fromfrom.GetName]§! in the §Y[fromfrom.target.GetName]§!. Whether by our target's cunning design, or simply an unlucky coincidence for us, [fromfrom.target.GetAdj] shielding technology has proven a worthy adversary us.\n\nIt is possible the [fromfrom.target.GetAdj] may gain from this incident. Although our operative drones may operate semi-autonomously, without our presence they are still far more vulnerable to enemy capture."
+
+ operation.5030.desc:1 "The environment on [excess_noise_country.GetAdj] worlds has become riddled with electrostatic noise - far more than we had anticipated. $operation.5030.close$"
+
+ operation.5030.desc.repeat:1 "The environment on [excess_noise_country.GetAdj] worlds has once again become riddled with electrostatic noise, in frequencies we are not yet accustomed to. $operation.5030.close$"
+
+ operation.5035.desc:2 "$role_spymaster$ [from.spynetwork.leader.GetName] reports that our team of operatives near the §Y[snuffedout_country.GetName]§! has missed a number of checkpoints. Given the nature of this operation, we had already anticipated them being unable to maintain frequent contact. However, our $role_spymaster$ is regrettably confident that by now, the team has been lost.\n\n§HOperation [from.GetName]§! may be rescued if we can successfully cover our tracks, pitting our §H$MOD_INTEL_DECRYPTION_ADD$§! against [snuffedout_country.GetAdj] §H$MOD_INTEL_ENCRYPTION_ADD$§!."
+
+ operation.5036.desc:0 "Though it has greatly taxed the resources of $role_spymaster$ [fromfrom.spynetwork.leader.GetName]'s work in the §H[snuffedout_country.GetName]§!, operational security has been reasserted. All loose ends have been covered; all cover identities discarded. A new team of operatives will take over from here, enacting a subtly different set of orders under our $role_spymaster$'s watchful gaze.\n\nThe [snuffedout_country.GetAdj], meanwhile, still seem oblivious to our presence."
+
+ operation.5037.desc:1 "Our worst fears have come to pass: the recent loss of our operatives in the §H[snuffedout_country.GetName]§! has exposed large parts of §HOperation [from.GetName]§!.\n\nAll our Spy Networks are carefully arranged so that under normal circumstances, only very flimsy evidence could ever implicate us in the covert activities we carry out. However, in this instance we cannot be entirely sure what Intel may have been given away; nor can we know how the [snuffedout_country.GetAdj] might choose to respond."
+
+ operation.5037.desc.provocation:1 "The recent loss of our operatives in the §H[snuffedout_country.GetName]§! has had some dire consequences: our entire operation has been exposed.\n\nOur Spy Networks are carefully managed so that under normal circumstances, they afford us some level of deniability. However, on this occasion our actions were serious enough that the [snuffedout_country.GetAdj] are unlikely to ignore even circumstantial evidence which may lead back to us. We do not know precisely how they will respond, but we should prepare for the worst."
+
+ operation.5040.desc:0 "$role_spymaster$ [from.spynetwork.leader.GetName] recently launched a quiet investigation into [from.spynetwork.leader.GetHisHer] own operatives in the §Y[from.target.GetName]§!, after noticing a recent drop in their performance.\n\n[from.spynetwork.leader.GetHeSheCap] [from.spynetwork.leader.GetHasHave] discovered these operatives skimming from resources allocated to intelligence-gathering and bribes. These goods and currencies are being re-invested elsewhere in [from.target.GetAdj] business concerns, earning the operatives a comfortable profit at our expense. As a result, their attention and loyalties have clearly become divided.\n\nProgress on §HOperation [from.GetName]§! has been put on hold for the moment, until $role_spymaster$ [from.spynetwork.leader.GetName] can re-assert operational efficiency."
+
+ operation.5042.desc:0 "$role_spymaster$ [fromfrom.spynetwork.leader.GetName] regretfully reports a breakdown in our §Y[fromfrom.target.GetName]§! Spy Network.\n\nWhen a group of thieves amongst our operatives was called to account, their response was to flee - scattering to parts of [fromfrom.target.GetAdj] space that even we struggle to monitor. [fromfrom.spynetwork.leader.GetName] is no longer able to track them down - at least not without drawing undue attention."
+
+ operation.5045.desc.intro:0 "Our $role_spymaster$ in the §Y[from.target.GetName]§!, [from.spynetwork.leader.GetName], reports a drastic failure in [from.spynetwork.leader.GetHisHer] process for screening operatives. Word from the [from.target.GetAdj] capital is that [root.GetOperativeRoleIndefiniteArticle] has chosen to §Rdefect§!."
+
+ operation.5050.desc:0 "$operation.5050.desc.intro$\n\nTheir injuries are severe, but our operative managed to complete their task and has maintained cover so far. It is clear to the [from.target.owner.GetAdj] authorities, however, that the incident was unusual, bordering on suspicious. Questions are being asked, and the longer our operative remains in their medical care, the greater the risk our cover will be blown."
+
+ operation.5050.desc.machine:0 "$operation.5050.desc.intro$\n\nThe drone has sustained serious damage, but has completed its task and has maintained cover so far. It is clear to the [from.target.owner.GetAdj] authorities, however, that the incident was unusual, bordering on suspicious. Questions are being asked, and the longer our operative remains under their supervision, the greater the risk of exposure."
+
+ operation.5050.desc.hostile:0 "$operation.5050.desc.intro$\n\nThey are currently unable to move far or else lend more than basic support to the rest of the operation, so they have secured a reasonably safe hideout. There is, however, bound to be a maintenance sweep of the area before long. The longer our operative remains in [from.target.owner.GetAdj] care, the greater the risk of exposure."
+
+ operation.5057.desc:1 "Our auxiliary operatives in the §Y[target_country.GetName]§! have reacted with horror upon learning the truth of their once-intangible suspicions. $role_spymaster$ [operation.leader.GetName] revealed only a glimpse of the bigger picture to them, but it was sufficient to disrupt our supply lines. Our ability to subvert [target_country.GetAdj] $MOD_INTEL_ENCRYPTION_ADD$ is reduced for a time."
+
+ manifesti.30.desc:0 "The buzz surrounding the §YManifesti faction§! has quitened, fading as quickly as the arrival of protests which started it. Some activists we spoke to claimed their motivations ranged from pure satire to conscientious objection.\n\nAttendance at galleries and museums has never been higher, but the public gaze has already moved on to newer, controversial groups of artists. Our sociologists continue to sift through data they gathered during this strange moment in [root.GetAdj] cultural history."
+
+ envoy_events.100.desc.regular:0 "We have caught a delegate from the §H[scandalous_insult_country.GetName]§! in a rare blunder, letting slip their empire's true feelings about us to another, anonymous party. More than the usual political mud-slinging: these amount to an §Poutright insult§!, as it appears we are the subjects of fierce ridicule amongst [scandalous_insult_country.GetAdj] society.\n\nWhether or not we pay any mind to this baseless slander: diplomacy and pride would demand that we stand our ground."
+
+ envoy_events.100.desc.gestalt:0 "A delegate from the §H[scandalous_insult_country.GetName]§! has let slip their gestalt's true feelings about us, apparently when in conference with other, anonymous parties. Given how petty it must be for a combined consciousness to even contemplate so-called 'political mud-slinging', these strike us as an §Pabsurd and potent insult§!.\n\nWhether or not we pay any mind to this baseless slander: diplomacy and pride would demand that we stand our ground against this bizarre [scandalous_insult_country.GetAdj] behavior."
+
+ spynetwork_toxic_field_desc:0 "The [toxic_field_country.GetAdj] hive is mildly toxic to our own drone operatives. There will be an impairment of function until we can develop adequate antibodies."
+
+ spynetwork_excess_noise_desc:0 "The environment on [excess_noise_country.GetAdj] worlds has become riddled with excessive electro-static noise - far more than we are currently accustomed to. There will be an impairment of function until we can re-route key functions around our affected hardware."
+
+ TOXIC_OPERATION_PROJECT_DESC:0 "The [toxic_field_country.GetAdj] habitat is mildly toxic to our own drone operatives. By studying its effects, we can develop a remedy and so avoid the risks associated with having visibly-allergic drones inside their hive."
+
+ custodian.2.b.desc:1 "The Galactic Senate has voted to bestow emergency Custodianship powers upon the §H[custodian.GetName]§!. In a ceremony broadcast across the galaxy, they were appointed the official §HCustodians of the Galactic Community§!.\n\nAs the first among equals, the [custodian.GetAdj] government is now charged with safeguarding the Galactic Community from all potential threats, be they internal or external, who would seek it harm. They have been granted vast powers in all Community matters and can now propose special resolutions."
+
+ emperor.3.intro.desc:0 "It is the dawn of a New Order. The old Galactic Community has been dismantled, and in its place the §H[Root.GetGalEmpireName]§! has risen. After claiming the throne of this new pan galactic state, the former §H[gal_emperor.GetAdj]§! Custodians now refer to themselves as the §H[gal_emperor.GetName]§!."
+
+ emperor.52.desc:1 "All references to the old Galactic Community are being swept away in the new Imperium, and as part of this reorganization, the Galactic Defense Force has changed its name to the §HImperial Armada§!.\n\nThis new fleet has inherited much of its rank structure and organization from the GDF, but new uniforms and insignia have been introduced, and all serving members are required to swear an oath of allegiance to the [gal_emperor.GetRulerTitle].\n\nWhile the Armada's ship crews and support personnel are still recruited from all members of the Imperium, the percentage of [gal_emperor.GetAdj] officers has dramatically increased."
+
+ emperor.310.desc:0 "With Imperial resistance crumbling, our §H[new_emperor.GetAdj]§! allies have seized the throne and proclaimed themselves the rulers of the §H[new_emperor.GetGalEmpireName]§!. Victory is ours!"
+
+ CUSTODIAN_TO_COMMUNITY_MEMBER_HOSTILE_GREETING_02:0 "As Custodians, we have vowed to put an end to [From.GetAdj] schemes in the Community."
+
+ CUSTODIAN_TO_COMMUNITY_MEMBER_FRIENDLY_GREETING_01:0 "It will take time to reform the Community into something better, but with the help of our [From.GetAdj] friends, it can be done."
+
+ crisis.4100.1:0 "As Galactic Custodians, the [custodian.GetName] has called upon all Community members to mobilize their fleets and launch a concerted attack on [new_crisis.GetAdj] territory: "The galaxy will not know peace until the [new_crisis.GetAdj] menace has been dealt with once and for all.""
+
+ crisis.4100.2:0 "Representatives from the Senate have called upon all Community members to mobilize their fleets and launch a concerted attack on [new_crisis.GetAdj] territory, declaring that "the galaxy will not know peace until the [new_crisis.GetAdj] menace has been dealt with once and for all.""
+
+ crisis.4101.desc:1 "The Imperial Senate has passed a resolution declaring the §H[new_crisis.GetName]§! a threat to all sapient life and a crisis of galactic proportions. As a consequence, the [new_crisis.GetName] finds itself in a state of war with the entirety of the Imperium.\n\nIn a public announcement transmitted from [gal_emperor.Capital.GetName], the [gal_emperor.GetRulerTitle] called upon all members of the Imperium to mobilize their fleets and launch a concerted attack on [new_crisis.GetAdj] territory: "The galaxy and the Imperium will not know peace until the [new_crisis.GetAdj] menace has been dealt with once and for all.""
+
+ crisis.6181.desc:0 "The entire §H[destroyed_system.GetName]§! system has been destroyed! A massive starship belonging to the §H[crisis_country.GetName]§! took up position above the primary star and somehow triggered what can only be described as a supernova, which utterly devastated the rest of the system. The star then collapsed into a black hole.\n\nOnly the [crisis_country.GetAdj] starship, which they apparently refer to as a "§HStar-Eater§!," survived the cataclysm. Evidently, the [crisis_country.GetName] now possesses both the technology and the means to destroy entire star systems."
+
+ operation.6010.4.desc:0 "§H[operation_target.GetName]§!, a [agent_origin.GetAdj] agent of the Imperial Security Directorate, is particularly apt at [operation_target.GetHerHis] job. [operation_target.GetSheHeCap] [operation_target.GetIsAre] personally responsible for the arrest of hundreds of "dissidents" - several of whom were working for us. It is time for this ISD agent's illustrious career to come to a premature and very permanent end."
+
+ operation.6010.5.desc:0 "The Imperial Armada is the sword of the [target.GetRulerTitle], constantly hovering over the heads of Imperium's members and ready to come thundering down at the slightest sign of rebellion.\n\nWe have identified a particular Armada intelligence officer, a [agent_origin.GetAdj] by the name of §H[operation_target.GetName]§!, who oversees many of their anti-insurgency operations. The demise of this officer is long overdue."
+
+ operation.6201.1.desc:0 "We have made contact with a rowdy but promising group of [target.GetAdj] pirates. These violent cutthroats are more than willing to accept our weapons and ships, although we'll have no way of controlling them once they're set loose."
+
+ operation.6207.desc.outro:0 "We cannot identify whoever is behind this effort, but it seems they shared our goals. Our own operation ends abruptly here, but reports indicate the [target_country.GetAdj] shipping lanes are being disrupted all the same."
+
+ operation.6252.1.desc:0 "Through their surveillance efforts, our operatives have managed to obtain sensitive information regarding a certain high-ranking [target.GetAdj] government official. If it were to be released to the general public, this information would prove very embarrassing.\n\nWe are ready to discreetly approach this official to see if some sort of alternate arrangement can be worked out."
+
+ operation.6252.2.desc:0 "One of our operatives has secured an old data file containing [target.GetAdj] invasion plans for several foreign powers. Although the plans are obsolete and seem to have been entirely hypothetical, there are several detailed scenarios that involve the arrest or execution of the target empire's political leadership.\n\nAs the release of these plans could potentially be embarrassing for the §H[target.GetName]§!, our operatives are ready to approach their government to work out a deal."
+
+ operation.6252.3.desc:0 "We have learned that a certain high-level [target.GetAdj] government official has been secretly siphoning off a small amount of credits from their defense budget for personal use. If this information were to become public knowledge in the §H[target.GetName]§!, it would cause quite a scandal.\n\nOur operatives are ready to discreetly approach this official to see if some sort of arrangement can be worked out..."
+
+ operation.6252.4.desc:0 "Our surveillance efforts have revealed that a high-ranking [target.GetAdj] diplomat is engaged in an affair with a [scandal_species.GetAdj] embassy staff member. The exact details of this relationship elude us, but its mere existence would be highly embarrassing to both the diplomat and their government if it were shared with the general public.\n\nWe have operatives standing ready to approach the diplomat in a discreet attempt to reach an agreement."
+
+ operation.6252.5.desc:0 "Our operatives have obtained evidence that a distinguished member of the [target.GetAdj] government has ties to a pirate organization active within their borders. From what we can tell, this official has been feeding these pirates sensitive information about internal trade routes.\n\nIf we were to keep this evidence to ourselves, the government official would likely be very grateful..."
+
+ operation.6320.desc:0 "Our operation to disrupt the ability of the §H[target_country.GetName]§! to undermine the Imperium has been compromised! [target_country.GetAdj] counterintelligence must have been monitoring our every move - all of our operatives have gone silent.\n\nThe [target_country.GetSpeciesNamePlural] have presented evidence of our operation to the Imperial Senate. Our diplomats are denying everything, of course, but this embarrassing incident will reflect poorly on the [Root.GetRulerTitle]."

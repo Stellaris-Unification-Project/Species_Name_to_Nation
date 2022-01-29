@@ -1,0 +1,9 @@
+﻿l_english:
+
+ mem_fe.22.desc:0 "Dear [root.GetAdj]. It has come to our attention that you are harbouring the deranged criminal, [mem_escaped_scientist.GetName]. [mem_escaped_scientist.GetSheHeCap] committed unspeakable atrocities whilst escaping from out authorities with a large cache of dangerous technology. It is imperative that [mem_escaped_scientist.GetSheHe] is returned to us so that [mem_escaped_scientist.GetSheHe] can face trial for [mem_escaped_scientist.GetHisHer] crimes... and that you surrender [mem_escaped_scientist.GetHisHer] cache to us - for your own safety, it cannot be left in the hands of an immature race."
+
+ mem_fe.22.A.response:0 "You will live to regret this, [root.GetAdj]."
+
+ mem_fe.22.B.response:0 "You have made the right choice, [root.GetAdj]."
+
+ mem_fe.22.C.response:0 "Be careful, [root.GetAdj]. You are playing with fire."

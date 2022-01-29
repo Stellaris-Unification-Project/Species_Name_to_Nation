@@ -1,0 +1,116 @@
+﻿l_english:
+
+ crime.203.desc:0 "A large civilian freighter was recently denied atmospheric entry on §H[Root.GetName]§! after it was found to be carrying illegal drugs in an auxiliary cargo compartment. As the freighter was ordered to heave to for inspection, its captain, a drug-crazed [Root.Owner.GetAdj], instead opted to burn past the orbital blockade in an attempt to land.\n\nThe freighter was hit by ground fire from our planetside security forces as it descended, causing it to crash into a densely populated city district. There were few survivors on the ground."
+
+ lootbox_contents_d:0 "§EThe $lootbox$ contains a treatise on love, and the cyclical nature of all things. It is written in the [Root.GetAdj] language and the style is contemporary.§!"
+
+ lootbox_contents_f:0 "§EThe $lootbox$ contains a shipment of military rations. All markings on the packaging have worn off, but the contents appear safe and compatible with [Root.GetAdj] biology.§!"
+
+ cara.940.desc:0 "The [caravaneer_home_country.GetName] has reestablished its tradestation in the [cara_home_new_location.GetName] system, formerly a [From.GetAdj] territory."
+
+ cara.951.desc:0 "Aside from numerous functionaries breaking down into hysterics during the handover, the surrendering of the Galatron to [From.GetAdj] forces was an uneventful affair."
+
+ cost_1cruiser:0 "[Root.GetAdj] Cruisers: £military_ship£ §R-1§!"
+
+ cost_3pops:1 "[Root.GetAdj] Pops on [Root.Capital.GetName]: £pop£ §R-1§!"
+
+ fleet2dealdesc9:0 "The Divine Numa smiles on you this day, [Root.GetAdj]. She has shown us how to better align your units to §Y[fleet2deal9planet.GetName]§!'s magnetosphere. With our holy, patented §GNumistic Magnetostrips§!, your drones on §Y[fleet2deal9planet.GetName]§! will drain your sacred £energy£ §Y$energy$§! with less fervor.\n\nIn exchange, we require a ceremony to the Divine be hosted on your soil. What say you?$fleetdeal_explanation$"
+
+ fleet3contact1:0 "[Root.GetAdj]! We greet you. We are operators of $NAME_Caravaneer_Fleet3$, a member of the $NAME_Caravaneer_Home$.\n\nWe travel the stars. Our eyes catch all that glows. We gather. And we trade!\n\n$fleet3contact_explanation$"
+
+ fleet3contact3:0 "Well met, well met, [Root.GetAdj]. Your credits amass, yet there is emptiness in your spirit, no? We sense it. We come with swift hands, bearing many goods!\n\nWe are the $NAME_Caravaneer_Fleet3$, traders of the $NAME_Caravaneer_Home$.\n\n$fleet3contact_explanation$"
+
+ fleet3contact1notinborder:0 "[Root.GetAdj]! We greet you. We are operators of $NAME_Caravaneer_Fleet3$, a member of the $NAME_Caravaneer_Home$.\n\nWe travel the stars. Our eyes catch all that glows. We gather. And we trade!\n\n$fleet3contact_explanation_notinborder$"
+
+ fleet3contact3notinborder:0 "Well met, well met, [Root.GetAdj]. Your credits amass, yet there is emptiness in your spirit, no? We sense it. We come with swift hands, bearing many goods!\n\nWe are the $NAME_Caravaneer_Fleet3$, traders of the $NAME_Caravaneer_Home$.\n\n$fleet3contact_explanation_notinborder$"
+
+ fleet3hewwo8:0 "Look at your credit silos, [Root.GetAdj]. Full to bursting! Please, let us lighten them. Let us assist."
+
+ cara.4010.a.tooltip:2 "§G3§! §Y[caravan_pops_join_country.GetAdj]§! £pop£ §HPops§! join the colony on [caravan_pops_join_planet.GetName]"
+
+ mega.9002.desc:0 "The Exhibition Stations are complete. Each larger than many Starbases, these stations can accommodate millions of visitors per day. Now ready to open at long last, they will display the artistry of [From.Owner.GetAdj] and the galaxy to the delight of all. The first fleet of transport ships carrying visitors is already making its approach."
+
+ mega.9002.phobe.desc:0 "The Exhibition Stations are complete. Each larger than many Starbases, these stations can accommodate millions of visitors per day. Now ready to open at long last, they will display the true glory of [From.Owner.GetAdj] art! A small selection of Xeno-art shall also be displayed for comparison and mockery. The first fleet of transport ships carrying visitors is already making its approach."
+
+ mega.9008.desc:0 "The Interstellar Assembly's outer ring is populated with vast, state-of-the-art conference rooms equipped with privacy hardfilters (penetrable only by [Root.GetAdj] surveillance, of course). The station is quickly becoming the de-facto galactic hub for off-site negotiations."
+
+ action.96.desc:0 "De facto galactic trade, unbound by the performance of international diplomacy, has existed since we first discovered that we are not alone in the universe. As new borders are discovered and old ones redrawn across the galaxy, galactic leaders agree that it is time to §Ylegitimize this commercial forum§! so that all may benefit.\n\nIn the coming years, independent traders and government agencies will be looking to establish a quasi-centralized hub for galactic commerce. We would surely benefit were this hub to fall within [Root.GetAdj] space, so we can choose to §Ypromote one of our worlds§! for this purpose."
+
+ action.101.desc:1 "The center of galactic commerce has manifested in the §Y[galactic_market_station.solar_system.GetName]§! system, within the borders of the [From.GetName]. The [From.GetAdj] administration has officially legitimized this marketplace, where resources can be bought and sold through unaffiliated third parties."
+
+ action.106.desc:0 "Through our newly-established contacts, we have gained access to a galactic marketplace for the purchase and sale of resources. This will surely be a great boon to the [Root.GetAdj] economy."
+
+ mega.100.desc:1 "We have lost access to the objects of worship in the [From.GetName] system!\n\nGrief and a profound sense of loss grips the [Root.GetAdj] colonies. Different from a world being declared unconsecrated, this violent denial of spiritual agency leaves the believers of [Root.GetName] shell-shocked and disoriented. The clergy have decreed a half-decade of mourning."
+
+ MANDATE_mandate_district_city_DESC:1 "[Root.GetRulerTitle] [Root.GetRulerName] was elected on a platform of expanding [Root.Owner.GetAdj] urban centers by constructing at least §Y2§! additional §Y$district_city_plural$§!.\n\nReward at end of term:\n$mandate_unity_reward$"
+
+ ASK_FOR_SUBS_PROPOSE_01:0 "The [Root.GetName] is in need of military protection. Make us a subsidiary under [From.GetAdj] rule and we, as your loyal subject, will offer you a substantial portion of our trade."
+
+ TO_CORP_THREATENED_GREETING_01:0 "Greetings, [From.GetName]. We hope you recognize the potential in the [Root.GetAdj] market."
+
+ CORP_CORP_HOSTILE_GREETING_03:0 "The [Root.GetAdj] secret sauce brings all the aliens to the yard. We could teach you, but we'd have to charge..."
+
+ CORP_CORP_WAR_GREETING_01:1 "We're coming for your market shares, [From.GetName]. And when we're through, your name will be forgotten. The galaxy will be screaming only for [Root.GetAdj] product!."
+
+ CORP_PEACE_REFUSE_03:0 "Regrettably we cannot agree to your terms, [From.GetAdj]. This war has proven much too lucrative."
+
+ CORP_ITOA_PROPOSE_01:2 "The [Root.GetAdj] brand is renowned for its quality! Joining us would allow you to benefit from that credibility."
+
+ CORP_ITOA_REFUSE_01:1 "The [Root.GetAdj] brand is synonymous with premium quality. We could not risk affiliation with the [From.GetSpeciesNamePlural]."
+
+ CORP_DEMAND_VASS_ACCEPT_01:1 "The [Root.GetAdj] board has voted in favor of the [Root.GetName] becoming a vassal state to the [From.GetName]."
+
+ CORP_ASK_FOR_SUBS_ACCEPT_01:0 "Welcome to the [From.GetAdj] corporate family. While the [Root.GetName] still operates as a distinct legal entity, the [From.GetName] now holds a controlling interest in your company and will protect our joint interests from hostile threats."
+
+ CORP_RELEASE_SUBJECT_SELECT_01:1 "Do you wish to revoke your status as holding company of the [Root.GetName] and reinstate [Root.GetAdj] autonomy?"
+
+ CORP_DEMAND_TRIBUTARY_REFUSE_01:0 "The [Root.GetName] will not give in to [From.GetAdj] extortion. We have the law on our side."
+
+ 02_BREAK_COMMERCIAL_PACT_ACCEPT:0 "Your isolationist policies have weakened both our economies, [From.GetAdj]."
+
+ CORP_INTEGRATE_01:1 "Hold on! A merger might compromise the integrity of the [Root.GetAdj] brand..."
+
+ CORP_INTEGRATE_ACCEPT_02:0 "[Root.GetSpeciesAdj] resolve and work ethic built the [Root.GetAdj] franchise from the ground up. We will never forget who we are."
+
+ CORP_CANCEL_INTEGRATE_ACCEPT_01:1 "So the integrity of the [Root.GetAdj] brand will remain intact..."
+
+ CORP_FORM_DP_REFUSE_01:0 "Our business is our own, [From.GetSpeciesNamePlural]. It's every [Root.GetAdj] for himself!"
+
+ CORP_BREAK_DP_SELECT_01:0 "Please confirm your request to terminate the [Root.GetAdj]-[From.GetAdj] defensive arrangement."
+
+ CORP_BREAK_DP_ACCEPT_01:0 "In accordance with your wish to terminate the [Root.GetAdj]-[From.GetAdj] defensive arrangement, we now withdraw all military support."
+
+ CORP_FORM_NAP_SELECT_01:0 "Please confirm you request to form a non-aggression pact with the [Root.GetAdj]."
+
+ CORP_FORM_NAP_REFUSE_01:0 "We regret to inform you that a [From.GetAdj]-[Root.GetAdj] non-aggression pact does not align with [Root.GetAdj] future expansion goals."
+
+ CORP_BREAK_NAP_PROPOSE_01:0 "Dear, [From.GetName]. We regret to inform you that we are terminating the [Root.GetAdj]-[From.GetAdj] non-aggression pact, effective immediately."
+
+ CORP_GUARANTEE_SELECT_01:0 "Your devotion to the integrity of the [Root.GetAdj] brand makes our cold corporate hearts melt. You truly are our most loyal customers!"
+
+ CORP_GUARANTEE_PROPOSE_01:0 "Valued customers! We care! In fact, we would like to celebrate our mutual friendship by supporting your independence from aggressors! The [From.GetAdj] fleet is now at your disposal!"
+
+ CORP_REVOKE_GUARANTEE_PROPOSE_01:0 "Regrettably the [From.GetName] can no longer guarantee [Root.GetAdj] independence. We wish you the best of luck in your future endeavors, as you will surely need it."
+
+ CORP_SUPPORT_INDEPENDENCE_SELECT_01:0 "Please confirm your support for [Root.GetAdj] independence by backing our crowdfunding campaign!"
+
+ CORP_SUPPORT_INDEPENDENCE_ACCEPT_01:0 "We at [Root.GetName] thank you for interest in [Root.GetAdj] independence."
+
+ CORP_REVOKE_INDEPENDENCE_SELECT_01:0 "Do you wish to retract your support for [Root.GetAdj] independence?"
+
+ CORP_REVOKE_INDEPENDENCE_PROPOSE_01:0 "Regrettably we must retract our support for [Root.GetAdj] independence. We wish you the best of luck in your future endeavors as you will surely need it."
+
+ CORP_BREAK_MIGRATION_PACT_SELECT_01:0 "Please confirm your request to terminate the [Root.GetAdj]-[From.GetAdj] talent exchange program."
+
+ CORP_BREAK_MIGRATION_PACT_PROPOSE_01:1 "We have found the [Root.GetSpeciesNamePlural] with their blabbering [Root.GetSpeciesMouthName] to have a disruptive effect on [From.GetAdj] corporate culture."
+
+ CORP_BREAK_MIGRATION_PACT_ACCEPT_01:0 "The [Root.GetName] hereby confirms the discontinuation of the [Root.GetAdj]-[From.GetAdj] talent exchange program, effective immediately."
+
+ CORP_CLOSE_BORDERS_PROPOSE_01:0 "The [From.GetName] will no longer tolerate [Root.GetAdj] intrusions into [From.GetAdj] space. All [Root.GetAdj] vessels are expected to vacate [From.GetAdj] territory immediately."
+
+ CORP_REVOKE_FEDERATION_ASSOCIATION_STATUS_SELECT_01:0 "Please confirm your intention to revoke [Root.GetAdj] association status with the §Y[From.GetAllianceName]§!."
+
+ CORP_REVOKE_FEDERATION_ASSOCIATION_STATUS_PROPOSE_01:0 "The [From.GetName] regrets to inform you that the board has voted unanimously to withdraw [Root.GetAdj] association status with the §Y[From.GetAllianceName]§! due to inherent incompatibility."
+
+ CORP_REVOKE_FEDERATION_ASSOCIATION_STATUS_ACCEPT_01:0 "Though we are saddened by your decision to revoke [Root.GetAdj] association status with the §Y[From.GetAllianceName]§!, we will continue to offer our services at affordable prices."
+ 

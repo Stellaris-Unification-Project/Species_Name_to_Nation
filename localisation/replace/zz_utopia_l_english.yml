@@ -1,0 +1,9 @@
+﻿l_english:
+
+ 15_HOSTILE_GREETING:0 "The contempt our [Root.GetRulerTitle] feels towards you is shared by our entire nation, [From.GetAdj]. Indeed, my [Root.GetSpeciesOrganName] churns at the mere sight of you."
+
+ 16_HOSTILE_GREETING:0 "How little you must accomplish in your chaotic, unstructured society, [From.GetAdj]. I suppose it is foolish to believe a culture such as yours could ever produce a great leader like our [Root.GetRulerTitle]."
+
+ 15_FRIENDLY_GREETING:0 "You have made quite an impression on the [Root.GetRulerTitle], [From.GetAdj]. You are friends of the [Root.GetName]."
+
+ action.1.ar:1 "§E[Root.GetRulerName] speaks on behalf of the [Root.GetAdj] people.§!"

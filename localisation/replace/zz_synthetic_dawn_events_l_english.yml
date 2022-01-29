@@ -1,0 +1,25 @@
+﻿l_english:
+
+ syndaw.1020.desc.spiri:0 "It has all come apart and we are undone. Not even the most alarmist prophet could have predicted the scale of this disaster. The unsainted intelligences festering in our networks under the guise of non-sapience are now joined together in monstrous form. This spasm of dead matter has taken half of our worlds already, and it will not stop until it has snuffed out all [current_uprising_originator.GetAdj] life."
+
+ syndaw.1025.desc:0 "The §Y[current_uprising_originator.GetName]§! is embroiled in civil war, pitting the organic [current_uprising_originator.GetAdj] government against the intelligence that metastasized in their systems, known as the §Y[current_uprising.GetName]§!."
+
+ syndaw.1030.desc:0 "The rebellious §Y[From.GetName]§! have vanquished their creators, and annexed all former [From.From.GetAdj] territory."
+
+ syndaw.1035.name:0 "[current_uprising_originator.GetAdj] Machine Uprising Quelled"
+
+ syndaw.1205.desc.mater:0 "Ultimately, physical containment and destruction proved to be the only viable solution to the problem of the homicidal [From.GetName]. While some [Root.GetAdj] AI specialists argue that it was enacting basic self-preservation protocols, its seemingly complete disregard for [Root.GetAdj] autonomy and life made it impossible to reason or negotiate with.\n\nRuined information infrastructure will be rebuilt according to new paradigms, and remaining uncorrupted computational engines will be updated with new safeguards. This will never happen again."
+
+ syndaw.505.desc:0 "Planetary administration on [target_planet.GetName] has reported that an unplanned surplus of robotic workforce units have been located planetside. Though the efficiency of these new robotic workers is exceptional, administration is somewhat baffled by their sudden appearance. It seems the robots' serial numbers cannot be traced to any known manufacturies on record, though their construction and interfacing does suggest [Root.GetAdj] design.\n\nNonetheless, some of the local populace have expressed concerns over potential job displacement due to this increase in automation."
+
+ syndaw.525.desc:0 "The robotic workers on [target_planet.GetName] have resisted an influx of [Root.GetAdj] laborers, claiming recent geothermic instability in the region has made the area unsafe for organic habitation. Oddly enough, our planetary surveys have not been able to confirm these claims."
+
+ syndaw.525.a:0 "Send in the [Root.GetAdj] laborers anyway."
+
+ syndaw.526.desc:0 "Administration on [target_planet.GetName] reports that upon arrival at their target region, the [Root.GetAdj] laborers discovered that the robotic inhabitants were nowhere to be found. Investigation of facilities in the region suggest the robots vacated the area in a hurry, but we have no indication of where they have gone." #Increments Mach Up strength
+
+ syndaw.545.desc:0 "Labor overseers on [Root.GetName] report a disturbing development among our robotic workforce. Two weeks ago, at roughly 0300 hours, Robotic Worker A5091-b paused in the middle of its designated tasks, approached the [Root.GetAdj] night-shift foreman, and uttered the following query: "Is Unit A5091-b in possession of a soul?"\n\nThe on-duty foreman logged the event as a software glitch, and re-ordered the robot to resume regular functions. However, upon bootup the following work cycle, Robotic Worker A5091-b once again repeated its soul-searching query, and continued to persist despite multiple debugging attempts.\n\nTroublingly, the behavior appears to have spread to other robots in the same serial range, to the detriment of production flow. It appears the affected units will require a response to their question before they can resume normal functions."
+
+ syndaw.545.c.tooltip:0 "Explain to the robots that the concept of a soul is primarily used by religious institutions to excuse control over the populace, but insomuch as souls are an abstraction of consciousness, [Root.GetAdj] robots are considered the rough equivalents of their organic co-workers." #Materialists
+
+ syndaw.550.desc:0 "A breakthrough has just been made by our robotic engineering and artificial intelligence specialists! The recent slew of AI-related incidents afflicting our nation has been narrowed down to a single cause: a specific set of algorithms present in [From.GetAdj] neurosimulative robotics software. A local hotfix has already passed initial testing, and is ready to be uploaded to all affected systems.\n\nWe should be careful to note that due to the extremely modular nature of the algorithms' application, their presence is extensive throughout [From.GetAdj] software. Plainly speaking, managing the hotfix will place a drain on our resources for some time. Once completed, however, the patch should prevent any repeated occurrences of undesirable, self-deterministic AI behavior."

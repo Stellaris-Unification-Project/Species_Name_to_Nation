@@ -1,0 +1,64 @@
+This mod is intended to change most diplomatic text - and every other other instance where it makes sense - from calling you by your founding species name to instead calling your nation's demonym.
+
+I really hated that I would always be called 'Human.' It seemed really undiplomatic to me, especially when your empire has multiple species. Mechanical empires, as well as some certain AI types, along with other appropriate lines, will still use species names.
+
+Biggest downside is there there is no way to implement a plural form (if you notice in the pic above, we for some reason don't get a plural option for country demonym). Because of that,  I recommend using a demonym that works for both the singular and plural.
+
+I did all of the changes manually, reading the context to determine if it should be the demonym or species name. If you feel there are places where it should be changed, let me know. 
+
+
+[hr][/hr]
+
+[h1]Support:[/h1]
+
+Just make sure this mod is after any of these mods in your load order:
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=701432146]- More AI Personalities[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1227620643]- Dynamic Political Events[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=727000451]- More Events Mod[/url]
+
+
+[hr][/hr]
+
+[h1]Compatibility:[/h1]
+
+- This mod is Ironman compatible.
+
+- This mod only changes specific localisation instances, so it should be compatible with just about everything. Only case where it won't be is if another mod also change the localisation instances I changed. That's not likely, and even if it does happen, it won't be a game-ruining bug or anything. The other instances will still be fine.
+
+
+[hr][/hr]
+
+[h1]Some Other Mods I've Made/Updated:[/h1]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2434790082]- Civil Wars[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2158334880]- More Authorities[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2114559224]- Viable Feudalism and Imperialism - Empire Federation[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2491283817]- Useful Heirs[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2493028212]- End Truce & Close Borders[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2452302093]- We Require Borders[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2183551683]- Vassals Expanded and Reworked - FunEFork[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2177145527]- Intervene: Help Friendly Nations - FunEFork[/url]
+
+===
+
+[url=https://ko-fi.com/mrfuneguy][img]https://i.imgur.com/EEyEFg6.png[/img][/url]
+
+[url=https://www.patreon.com/mrfuneguy][img]https://i.imgur.com/pdV33j3.png[/img][/url]
+
+===
+
+[h1]Support:[/h1]
+
+For the best support, find me at [b]#mrfuneguys-mods[/b] on the Stellaris Modding Den Discord:
+
+[url=https://discord.gg/REvVK2fjJF][img]https://i.imgur.com/4Und3QN.png[/img][/url]

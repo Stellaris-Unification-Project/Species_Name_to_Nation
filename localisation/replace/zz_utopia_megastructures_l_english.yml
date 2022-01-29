@@ -1,0 +1,21 @@
+﻿l_english:
+ 
+ utopia.5.desc.v1:0 "The experts sent to inspect the [From.GetAdj] ring world have scoured the construction site for a secret launch platform, yet found nothing to back our claims. We can only conclude that our intelligence was faulty, and review our sources more carefully the next time."
+
+ utopia.5.desc.v2:0 "The researchers we sent to the [From.GetAdj] ring world have returned with new knowledge within the field of engineering. Despite some initial misunderstandings due to cultural differences, both teams were satisfied with the exchange and have learned much from each other."
+
+ utopia.2004.desc.a:0 "Our engineers and planetary ecologists today finished the last of the habitat sections on the Ring World we built in the [completed_ringworld_system.GetName] system. The construction of this great megastructure must be considered a milestone in the history of the [Root.GetName] - we have accomplished what only a handful of civilizations in the history of our galaxy has managed before.\n\nLet this Ring World stand forever as a testament to how much the [Root.GetAdj] people have achieved since we first ventured beyond the safety of our homeworld's atmosphere."
+
+ utopia.2005.name:0 "[From.GetAdj] Ring World"
+
+ utopia.2005.desc.a:0 "The [From.GetName] has accomplished what only a handful of civilizations in the history of our galaxy has managed before - they have finished construction of the colossal Ring World they were building around the primary star of the [completed_ringworld_system.GetName] system.\n\nThis technological marvel must be considered a testament to the impressive achievements of the [From.GetAdj] people as a whole. They have certainly come a long way from their humble beginnings."
+
+ utopia.4000.desc:0 "Harnessing the power of the stars has been a dream of [Root.GetAdj] engineers throughout history - from crude combustion to the pale imitation of solar fusion - and we now stand ready to realize this dream. In the [From.From.GetName] system sits the scaffold upon which we will build a Dyson Sphere, encompassing [From.From.GetName] and monopolizing the cataclysmic power of the star."
+
+ utopia.4002.desc.a:0 "Frenetic activity in the [dyson_system.GetName] system betrays the construction of a §HDyson Sphere§! by the [From.GetName].\n\nStill in its early stages, the completed sphere will eventually blot out the light of [dyson_system.GetName], its radiance diverted to [From.GetAdj] energy stores."
+
+ utopia.4003.desc:0 "With the frame now in place, the awesome scale of the project is evident to all.\n\n[From.From.GetName] burns in a spindly cage, but will eventually be completely surrounded by [Root.GetAdj] solar panels."
+
+ utopia.4005.desc:0 "The [From.From.GetName] system's primary has now been completely enveloped by a [Root.GetAdj] Dyson Sphere.\n\nOur engineers celebrate this as a great victory, and rightly so. We have achieved what only a handful of star empires in the history of the galaxy dared imagine - the total subjugation of a star."
+
+ utopia.4010.desc:0 "The last detectable traces of light from the [From.From.From.GetName] system's star flicker out. The [From.GetName] has completed its Dyson Sphere, and a new void in the sky stands testament to [From.GetAdj] ingenuity and wealth."

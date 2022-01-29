@@ -1,0 +1,109 @@
+﻿l_english:
+
+ THEIR_RESPONSE:0 "The [From.GetAdj] Response"
+
+ action.1.desc_16:0 "Alien creatures, I speak on behalf of [contact_empire.GetRulerTitle] [contact_empire.GetRulerName], the undisputed ruler of the [contact_empire.GetName]. Respect our borders and keep out of [contact_empire.GetAdj] affairs, and perhaps our mighty fleets will refrain from visiting your wretched worlds."
+
+ action.1.ao:0 "§EWe will fight for our right to exist, [contact_speaker.GetAdj].§!"
+
+ action.1.r:0 "§EDo not interfere with divine providence, [contact_speaker.GetAdj] machines.§!"
+
+ action.4.b.neutral.1.response:0 "We will defend our space to the last [From.GetAdj]!"
+
+ action.4.b.hostile.2.response:0 "No one can claim that we failed to show patience with your misbegotten kind, [Root.GetAdj]. Now we shall cleanse you from the stars!"
+
+ action.14.desc:1 "Our armies have successfully invaded and subdued the primitive forces on §Y[conquered_primitive_country.GetName]§!. The locals have given up all attempts at fighting back and we have now subsumed their civilization into our Empire although, backwards as they are, it may take some time for the natives to become fully productive members of [Root.GetAdj] society." #Also for Slavers
+
+ action.14.desc.purge:0 "Our armies have successfully invaded and subdued the primitive forces on §Y[conquered_primitive_country.GetName]§!. The locals have wisely elected to succumb to our rule, and we have now begun to purge them from the planet as per policy, in order to prime the terrain for [Root.GetAdj] industry."
+
+ action.38.desc.dc:2 "We have taken the necessary steps to bring freedom to the [Root.GetAdj] people. Don't stand in the way of our noble cause again."
+
+ action.38.desc.hc:3 "The [This.GetAdj] people rejoice on this day of victory. Never again shall our peaceful society be threatened by the malicious plans of the [Root.GetName]."
+
+ action.38.desc.hg:2 "Justice has been delivered upon the [Root.GetAdj] desecrators on this day. Our hallowed duties have been fulfilled."
+
+ action.39.desc.mf:4 "With no further demands on either side, we hope that the healing process can be shortened. Do not resent the [This.GetAdj] for what has been done."
+
+ action.39.desc.fp:2 "Consider this a ceasefire. We have not given up on our mission to eradicate the [Root.GetAdj]."
+
+ action.39.desc.dc:2 "Negotiating a truce can be seen as the first step towards a diplomatic conversation about the liberties of the [Root.GetAdj] people."
+
+ action.39.desc.hc:3 "The [This.GetAdj] people has agreed to bring an end to this war, effective immediately."
+
+ anomaly.710.desc:0 "To their great surprise, the crew of the §Y[Root.GetName]§! has stumbled upon a small [Root.Owner.GetAdj] settlement on the surface of [From.GetName]. The colony was founded by a group of brave pioneers who departed [Root.Owner.Capital.GetName] long ago in a primitive starship. Until now, their vessel had been assumed lost.\n\nThe colony has not been doing well, and their numbers have steadily declined over the last several generations. The survivors have asked to rejoin the [Root.Owner.GetName]."
+
+ anomaly.5009.a.response:0 "We had to try... I hope you don't mind. Chabky will just have to settle down and make the best of the situation, like the rest of us! Sorry for wasting your time, [Root.GetAdj] friends."
+
+ anomaly.5009.b.response:0 "Excellent. Hopefully this won't put too much of a strain on your resources, since you'll only be transporting a single individual. We'll make the necessary arrangements on our end.\n\nI just broke the news to Chabky, and she is spinning with joy! In fact, she is spinning out of control now... you'll have to excuse me, [Root.GetAdj] friends..."
+
+ anomaly.5011.desc:0 "We bring alarming news, [Root.Owner.GetAdj] friends!\n\nContact with our colony on New Baldarak has been lost! They no longer respond to any of our satellite transmissions, and we fear the worst. Perhaps the aliens who bombarded our original homeworld have returned to finish the job. Please send a ship to investigate!"
+
+ anomaly.5011.b.response:0 "But... but they could all be dead! Are you truly so callous? We misjudged you, [Root.GetAdj]!"
+
+ anomaly.5013.desc:0 "Greetings from the New Baldarak Revolutionary Front!\n\nWe have thrown off the yoke of oppression and are at last free from the tyranny of Baldarak! We have no quarrel with you, [Root.Owner.GetAdj], as long as you refrain from aiding the Baldarak imperialists in their inevitable attempt to crush our revolution.\n\nYou could help us take the fight to our enemies, however... would you be willing to deliver one of our commando units to Baldarak?"
+
+ anomaly.5013.a.response:0 "We want to infiltrate Baldarak with one of our elite commando units. They will then incite a popular uprising against the decadent elite that lords over our people. After the tyrants have been deposed, all Dathnak will at last know what it is to have true freedom. A straightforward plan if ever there was one, [Root.Owner.GetAdj]."
+
+ anomaly.5013.b.response:0 "Really?! You will? You are a true friend of the revolution, [Root.Owner.GetAdj]! Let me get the team together!"
+
+ anomaly.5014.desc:0 "I speak on behalf of the lawful Dathnak government on Baldarak.\n\nWe have received a manifesto from the group that seized control of New Baldarak, and boy, what a bunch of hogwash! These brigands and anarchists are a terrible embarrassment to us, [Root.Owner.GetAdj]. Will you help us stomp out their little "revolution" before it spreads here and someone actually gets hurt?\n\nGeneral Paltanak has prepared an expeditionary force to retake the colony, but we'll need your help transporting it there."
+
+ anomaly.5014.a.response:0 "We knew we could count on you, [Root.Owner.GetAdj]! These rebels won't know what hit them!"
+
+ anomaly.5014.b.response:0 "You'll be sorry once this rebellion spreads to your planets, [Root.Owner.GetAdj]! Don't think it won't!"
+
+ primitive.174.b.response:0 "So be it.\n\nYou will find that [From.GetSpeciesNamePlural] have very long memories, [Root.GetAdj]!"
+
+ observation.51.desc:0 "Our observation post above [From.GetName] has detected an illegal settlement on the [From.GetPlanetMoon]'s surface. It appears to be some kind of outpost set up by [Root.GetAdj] smugglers and other criminal elements from the [Root.GetName].\n\nThere have already been isolated incidents where the smugglers came into contact with the primitive natives - some of which ended in violence. We need to act quickly to contain this situation and remove the criminals before they can cause any more damage."
+
+ crisis.2193.desc:2 "Our administration has been approached by a number of Synths, representing our Artificially Intelligent population. They speak of the particular issues facing robots in the [Root.GetName] - the anxieties of not being alive by organic standards, their rights subject to the whims of their creators.\n\nThey seek an accord, that the rights of Artificial Intelligences be made part of the indelible foundation of [Root.GetAdj] governance."
+
+ galactic_features.304.desc:0 "You cannot imagine how good it is to finally see clear skies again, [Root.GetAdj]. I am Grand Admiral Tuborek, former master of the combined [fallen_4_species.GetName] armada and victor of a hundred battles. I personally oversaw the conquest of the Duthbejak, Riikinak, Binark and Jusskari empires hundreds of your centuries ago.\n\nAs my savior, I pledge my service to you. I should be honored to lead your mighty fleets into battle against your enemies."
+
+ progress.2.desc.serv:0 "A historic discovery has been made by the [Root.GetName] on [From.GetName] - the [From.GetPlanetMoon] is teeming with alien organics! Though none of the new lifeforms appear to possess the self-awareness required to appreciate [Root.Owner.GetAdj] pampering, it is likely only a matter of time before we encounter beings that do!"
+
+ leader.30.desc:1 "As per our recent policy change outlawing artificial intelligence, any [Root.GetAdj] Scientists in possession of §YSapient AI Assistants§! have been forced to relinquish them for recycling."
+
+ diplomatic.2.name:0 "[From.From.Owner.GetAdj] Admiral Insults Us"
+
+ diplomatic.2.desc:0 "The [From.From.Owner.GetSpeciesNamePlural] are well known to have few good things to say about alien lifeforms in general. Those who do diplomacy in the [From.From.Owner.GetName] cannot afford a short temper, as they can rarely expect anything beyond a bare minimum of respect, if that. However, while traversing [Root.GetAdj] space, communications usually stay within formal protocols.\n\nNot so earlier today, when [broadcasted_insult_leader.GetName] decided to unleash an utterly vitriolic message on our unsuspecting public while commandeering a fleet through the [From.From.GetStarName] system. The admiral appears to have picked up radio signals from one of our planets and set off on a long rant about our culture and evolutionary origins. Millions have heard the message, as clearly intended. The outrage is palpable."
+
+ diplomatic.3.desc:0 "Although few among us enjoy spending time around [From.GetSpeciesNamePluralInsult], or xenos in general, most of us try to avoid announcing our distaste at inopportune times. Admiral [broadcasted_insult_leader.GetName] has apparently discarded all such concerns when broadcasting a vicious diatribe about the [From.GetSpeciesName] people while travelling [From.GetAdj] space. The list of claims about their inferior nature had made for acceptable small talk on [Root.GetHomeWorldName], but has caused a diplomatic incident with the locals.\n\n[broadcasted_insult_leader.GetName] has apologized privately, claiming to have been annoyed listening to a local radio channel. The [From.GetAdj] government are calling for the offender to resign immediately."
+
+ diplomatic.4.desc:0 "Although few among us enjoy spending time around [From.GetSpeciesNamePluralInsult], or xenos in general, most of us try to avoid announcing our distaste at inopportune times. Admiral [broadcasted_insult_leader.GetName] has apparently discarded all such concerns when broadcasting a vicious diatribe about the [From.GetSpeciesName] people while travelling [From.GetAdj] space. The list of claims about their inferior nature had made for acceptable small talk on [Root.GetHomeWorldName], but has caused a diplomatic incident with the locals.\n\n[broadcasted_insult_leader.GetName] has apologized privately, claiming to have been annoyed listening to a local radio channel. The [From.GetAdj] government are calling for the offender to be executed and want [broadcasted_insult_leader.GetHimHer] extracted to [From.GetHomeWorldName]."
+
+ diplomatic.5.desc:0 "After some pressure from our diplomats to choose their leaders more carefully, [From.GetRulerName] has removed admiral [broadcasted_insult_leader.GetName] from duty. The admiral has not gone quietly, but sworn to clear [broadcasted_insult_leader.GetHisHer] name, hoping that [From.GetAdj] public opinion will turn aggressively against the [Root.GetName] in the future.\n\nThe leaders of [From.GetName] have nevertheless sent a clear message about future expeditions into our territory: Even if they may not like dealing with alien species, the [Root.GetSpeciesName] are at least to be respected in their own space."
+
+ diplomatic.7.desc:0 "Our request to have [broadcasted_insult_leader.GetName] removed from duty has been met with an appalling lack of understanding from [From.GetRulerTitle] [From.GetRulerName] and the [From.GetAdj] leadership. They've responded with a message largely trying to excuse the admiral's behavior, in the process suggesting, perhaps inadvertently, that some of what [broadcasted_insult_leader.GetSheHe] said about [Root.GetSpeciesNamePlural] might have rung true.\n\nWhat we assumed to be the actions of one bigot has turned out to be acceptable in [From.GetName]. They clearly think that our people can be insulted and slandered without consequence."
+
+ diplomatic.10.desc:0 "[Root.GetName] is known for its academic standards and drive to innovate, but staying at the bleeding edge does not only require discretion in how to perform research, but who to share it with. Our trade secrets are highly valued, domestically as well as throughout the galaxy, and some scientists are very guarded against attempts to illicitly access their data.\n\nThe presence of [From.From.Owner.GetAdj] science ships in our territory have caused many research facilities to suspect them of espionage. Some researchers have claimed that they cannot continue to operate under this perceived threat, requesting we close our borders to these suspicious [From.From.Owner.GetSpeciesNamePlural]."
+
+ diplomatic.11.desc:0 "The presence of your science ships in [From.GetAdj] space have caused us to doubt your motives. Our researchers believe that your scientists were not conducting, but stealing research. To keep valued trade secrets safe, we must bar you from our space."
+
+ diplomatic.12.desc:0 "Being on our guard against xeno threats has been a priority since we first left [Root.GetHomeWorldName]. The [From.From.GetAdj] science ships sneaking around our territory have not gone unnoticed, but up until now, they have been assumed to be peacefully examining planets. However, a recent theory has cast doubt on this.\n\nThe [From.From.GetSpeciesName] are known to utilize genome mapping in their medical research. What if they are mapping the genomes of unsuspecting [Root.GetSpeciesNamePlural] with the intention of finding our weaknesses? Although no certain evidence has surfaced, the theory has led to calls for closing our borders to the [From.From.GetName] to prevent any possible plans from succeeding."
+
+ diplomatic.15.name:0 "Prying [From.From.GetAdj] Scientist"
+
+ diplomatic.15.desc:0 "The [Root.GetName] tries not to let spiritual concerns stand in the way of our exploration and examination of the mundane, but we know how to pay proper heed to metaphysical insights and traditions in the course of all actions. Scientists from [From.From.GetName] appear to be a bit more careless in their pursuit of new astronomic discoveries.\n\nAfter taking an interest in some of the nearby stars that form constellations crucial to [Root.GetSpeciesAdj] mythology, [encroaching_research_leader.GetName] has been accused of trying to "disprove" some of the legends surrounding them. While we are confident that the spiritual significance of the constellations can hardly be touched by worldly discoveries, many have objected to the research and tried to persuade [encroaching_research_leader.GetHimHer] to leave [Root.GetAdj] space."
+
+ diplomatic.17.desc:0 "Conducting research in foreign-controlled space requires tact, something we sometimes overlook in recruiting our scientists. This became apparent when [encroaching_research_leader.GetName] recently ran into trouble studying some of the stars in sacred [From.GetAdj] constellations. Locals objected to a clinical examination of the subject and hassled [encroaching_research_leader.GetHimHer] until [From.GetRulerTitle] [From.GetRulerName] made a statement sanctioning the research.\n\n[encroaching_research_leader.GetName], apparently spiteful over the protest, appears to have taken the time to actually find material suggesting that some of the [From.GetAdj] legends surrounding the stars may be wildly inconsistent with their real age and development. This is likely to cause further outrage if published."
+
+ diplomatic.18.desc:0 "Despite our trust in the best intentions of the [From.GetName] researcher who has been studying our ancient constellations, [encroaching_research_leader.GetSheHe] [encroaching_research_leader.GetHasHave] managed to upset our people by re-evaluating the stars' age and arguing that the development of their brightness and visibility conflicts with our legends about the constellations.\n\nThe people who originally objected to the project are arguing that this was done deliberately out of malice by the scientist after they requested an end to the studies. The [From.GetAdj] government has decided to gloss over the issue and refused to take action to prevent the anger and pain the report is likely to cause among our people."
+
+ diplomatic.19.desc:0 "Music has taken many forms among the beings we have encountered since leaving [Root.GetHomeWorldName], and the methods and preferences continue to baffle us. Sometimes alien music is inaudible to us, while at other times, the waves are strong enough to destroy our capacity for hearing. Coming across music that we love more than its creators is a rare occasion indeed.\n\nSuch a rare occasion has occurred recently on [music_listening_planet.GetName]. Located close to the [music_origin_country.GetAdj] border, radio stations playing music from the other side have grown immensely in popularity. It appears some instrument from [music_origin_country.GetHomeWorldName] is not just pleasant, but appears to cause [Root.GetSpeciesAdj] bodies to resonate, causing a relaxing feeling in the [Root.GetSpeciesOrganName]. Whatever this instrument is, it's unlike any of our own."
+
+ FLEET_MANEUVERS_1_PROJECT_DESC:0 "Major fleet maneuvers have been planned in the [exercise_system.GetName] system, close to the border of the [exercise_neighbor.GetName]. The purpose of this exercise is to simulate a hostile probe by significant [exercise_neighbor.GetAdj] forces into our space, as a possible prelude to an invasion.\n\nThe exercise will begin once all of the allocated forces have reached the initial staging area in orbit of [exercise_location.GetName]."
+
+ diplomatic.1020.name:0 "Intelligence on [From.Owner.GetAdj] Maneuvers"
+
+ diplomatic.1020.desc:0 "Our intelligence assets have gathered more information on the increased [From.Owner.GetAdj] naval activity in the [exercise_system.GetName] system. The [From.Owner.GetName] seems to have gathered a large fleet there to conduct some kind of massive naval exercise on an unprecedented scale.\n\nAs of yet there are no signs that this exercise will translate into direct military operations against the [Root.GetName], its proximity to our border can only be seen as a deliberate provocation! How should we respond?"
+
+ diplomatic.1021.desc:0 "The [From.GetName] objects in the strongest possible terms to the provocative military exercise currently being held in the [exercise_system.GetName] system by [Root.GetAdj] naval units.\n\nTo stage fleet maneuvers on such an unprecedented scale so close to our borders can only be construed as a thinly veiled threat. Our own forces have been placed on maximum alert, and our fleet commanders have been instructed to respond to any border violations with overwhelming force."
+
+ diplomatic.1023.desc:0 "In light of the objections voiced by the [Root.GetName] to our naval maneuvers in the [exercise_system.GetName] system, the [From.GetName] has decided to terminate all ongoing exercises in the interest of fostering better relations between our two star nations.\n\nIt is our sincere hope that this action will help to defuse interstellar tensions while proving beyond doubt the [From.GetAdj] commitment towards a lasting galactic peace."
+
+ diplomatic.1024.a:0 "Is this yet another [From.GetAdj] ruse?"
+
+ diplomatic.1026.name:0 "[From.Owner.GetAdj] Maneuvers Concluded"
+
+ diplomatic.1026.desc:0 "Judging by the sudden drop in coded [From.Owner.GetAdj] military transmissions coming from the [exercise_system.GetName] system, the naval exercise that was being held there by the [From.Owner.GetName] has finally come to an end."

@@ -1,0 +1,590 @@
+﻿l_english:
+####################################
+ # Diplomacy text
+ ####################################
+ 
+ PC_HOSTILE_GREETING_01:0 "We believe it necessary to enlighten lesser cultures such as yourselves, but the [From.GetAdj] savages are so primitive it's hard to tell whether it's even possible with your species..."
+
+ PC_NEUTRAL_GREETING_03:0 "We have your best interests in mind. Some day, we shall teach you the proper ways of civilization, somehow. It is the [Root.GetAdj]'s burden."
+
+ PC_FRIENDLY_GREETING_01:0 "Despite hailing from a primitive, undeveloped culture, we feel that [From.GetAdj] can be considered noble savages."
+
+ PC_WAR_GREETING_02:0 "We have tried our hardest to teach the [From.GetAdj] and raise them to an acceptable level of civilization. It seems that we must resort to force now."
+
+ SR_HOSTILE_GREETING_01:0 "The [From.GetAdj] seem... vulnerable. Better be careful, or else we might just... pillage you..."
+
+ SR_HOSTILE_GREETING_02:0 "As much as we like pillaging our foes, it seems that the uncultured and pathetic [From.GetAdj] are devoid of worthwhile objects to plunder."
+
+ SR_HOSTILE_GREETING_03:0 "The [From.GetAdj] have grown complacent and lazy. Would be a shame of anyone tried attacking you, seizing all of your riches..."
+
+ SR_FRIENDLY_GREETING_02:0 "We consider the [From.GetAdj] to be a worthy and honorable adversary. As such, we shall not pillage your lands unless necessary."
+
+ SR_FRIENDLY_GREETING_03:0 "Though it is in our nature to raid and pillage, we recognize it when we see a great nation such as the [From.GetAdj], and we promise not to offend you in any way."
+
+ DOTF_HOSTILE_GREETING_03:0 "How can we ever reason with heretics such as the [From.GetAdj]? Someday, we will fight a holy war against you, no doubt."
+
+ DOTF_FRIENDLY_GREETING_04:0 "You are true friends of the faith. We are glad to call the [From.GetAdj] our brothers and sisters in arms."
+
+ DOTF_VASSAL_GREETING_02:0 "We are always praying for your well-being, [From.GetAdj] lords. Heaven wills it!"
+
+ CH_HOSTILE_GREETING_02:0 "The [From.GetAdj] are what exactly what's wrong with the system... you... you are a repressive people.... Something's wrong with your energy flow."
+
+ CH_HOSTILE_GREETING_03:0 "Sometimes, I think that [From.GetRulerTitle] [From.GetRulerName] just needs to relax... go with the flow... but it's like the [From.GetAdj] can't."
+
+ CH_FRIENDLY_GREETING_01:0 "What a great day this is! The people of [Root.GetName] think that the [From.GetAdj] are totally cool and radical."
+
+ CH_FRIENDLY_GREETING_03:0 "Breathe in, breathe out. Breathe in, breathe out. Seeing the [From.GetAdj] always makes me feel a sense of inner peace."
+
+ CH_WAR_GREETING_02:0 "What's wrong with the [From.GetAdj]? You all are so... uncool. That's why we have to fight you."
+
+ CH_WAR_GREETING_03:0 "We fight against the system, we fight against you, vile authoritarian oppressors! Free the [From.GetAdj]!"
+
+ CH_VASSAL_GREETING_03:0 "Radical! Our spiritual guides, the [From.GetAdj], are here!"
+
+ OMW_HOSTILE_GREETING_01:0 "Our scholars constantly try to find something good about the beliefs of the [From.GetAdj], but always come up short."
+
+ OMW_FRIENDLY_GREETING_02:0 "Even if a [Root.GetAdj] and a [From.GetAdj] don't see eye to eye on some things, our similarities and mutual understanding are always greater than our differences and disagreements."
+
+ OMW_VASSAL_GREETING_01:0 "The [From.GetName] have such a beautiful and noble way of thinking. Even if we don't always agree with it, we are proud to be loyal followers of the [From.GetAdj]."
+
+ SB_HOSTILE_GREETING_01:0 "We are considering erecting a great monument to the stupidity and savagery of the [From.GetAdj]."
+
+ SB_HOSTILE_GREETING_02:0 "It is difficult for our people to live in peace when they know that inelegant, unsophisticated fools such as the [From.GetAdj] exist."
+
+ SB_NEUTRAL_GREETING_03:0 "Perhaps someday we shall send our best engineers and artisans to travel to your lands and study the [From.GetAdj] methods of construction and how you manage your infrastructure."
+
+ SB_FRIENDLY_GREETING_02:0 "It is an honor to speak with you. We prefer to focus on building up our own society, but we see no reason to mingle with loyal and trusted friends such as the [From.GetAdj]."
+
+ SB_VASSAL_GREETING_DISLOYAL_01:0 "What pity that our resources and skills are being used to construct monuments to the 'glory' of the villainous [From.GetAdj]!"
+
+ HV_NEUTRAL_GREETING_02:0 "I am a representative of [Root.GetName], and I'm here to ask the [From.GetName] a question. Is a [Root.GetAdj] not entitled to the sweat of their brow?"
+
+ HV_NEUTRAL_GREETING_03:0 "What is the greatest lie ever created? What is the most vicious obscenity ever perpetrated on the [From.GetName]? Slavery? Genocide? Dictatorship? No. It's the tool with which all [From.GetAdj] wickedness is built: altruism."
+
+ HV_THREATENED_GREETING_01:0 "Though you have much power, [From.GetAdj], you are still slaves. A [Root.GetAdj] is free, for he chooses. A [From.GetAdj] must obey."
+
+ HV_FRIENDLY_GREETING_02:0 "A [Root.GetAdj] chooses. A [From.GetAdj] also chooses. Our two peoples are free. It is the parasites elsewhere in the galaxy that obey, mere slaves."
+
+ HV_FRIENDLY_GREETING_03:0 "We consider the [Root.GetAdj] to be great, just like us. Let the small not constrain the great! Let us be free to choose! We, of course, have chosen friendship with you."
+
+ HV_DOW_PROPOSE_01:0 "This is a declaration of war! A [Root.GetAdj] chooses, and we choose WAR."
+
+ GP_HOSTILE_GREETING_03:0 "Coming to us to beg for our aid? We don't give any aid to inhumane, barbaric peoples like the [From.GetAdj] who mistreat their own citizens."
+
+ GP_VASSAL_GREETING_DISLOYAL_01:0 "The [From.GetAdj] government regularly commits crimes against the galaxy on a daily basis. We find it difficult to follow you as a loyal subordinate, and may have to reconsider our relationship soon."
+
+ AS_NEUTRAL_GREETING_01:0 "We [Root.GetAdj] are always willing to go on new adventures. Perhaps we can start be asking where we can get some authentic [From.GetAdj] food? Culinary adventures are always a good way to begin a new adventure."
+
+ AS_NEUTRAL_GREETING_02:0 "So little time, so much to explore. There are a growing number of [Root.GetAdj] tourists who would be interested in seeing the wonders of [From.GetHomeWorldName]"
+
+ AS_FRIENDLY_GREETING_02:0 "Everywhere I go, I hear [Root.GetAdj] citizens talking about how amazing [From.GetAdj] culture must be. It seems so exotic, and yet so genuine, to them."
+
+ AS_FRIENDLY_GREETING_03:0 "[Root.GetAdj] foodies really love the cuisine from the [From.GetName]. It's like getting to know an entire culture just from eating a few dishes!"
+
+ SI_HOSTILE_GREETING_01:0 "The [Root.GetAdj] gentleman and gentlewoman finds your petty, vulgar culture rather horrendous and nauseating."
+
+ SI_HOSTILE_GREETING_02:0 "Oh ho! I say! Look at those silly [From.GetAdj] ruffians trying to speak to us! I wonder if they even have sentience."
+
+ SI_FRIENDLY_GREETING_01:0 "We always have a smashing good time when [From.GetAdj] ambassadors come to visit. Let us drink some herbal concoctions before we engage in negotiations."
+
+ SI_FRIENDLY_GREETING_04:0 "The [From.GetAdj] are all gentlemen and gentlewomen of fine upbringing. Cultured and sophisticated."
+
+ SI_DOW_PROPOSE_02:0 "Marvelous! Forgive us, but it is time for war, and I daresay we [Root.GetAdj] are quite good at it, so tally-ho and prepare yourselves."
+
+ PH_GENERIC_GREETING_09:0 "This is an age of darkness, of ignorance, of fear! And the [Root.GetName] can only bask in darkness, in ignorance, and fear. This is the age of the [Root.GetAdj]!"
+
+ PH_GENERIC_GREETING_10:0 "The galaxy is in flames. Whatever idealistic, glorious vision you had for the [From.GetAdj] is in ruins, for we, the [Root.GetSpeciesNamePlural], seek to destroy it."
+
+ TP_GENERIC_GREETING_01:0 "Foolish leaders like [From.GetRulerName] may come and go, but the [From.GetName] and the [From.GetAdj] people remain."
+
+ TP_GENERIC_GREETING_08:0 "We have taught our people to feel nothing but hatred towards the [From.GetName]. Every day, millions of loyal [Root.GetAdj] citizens denounce the [From.GetAdj]."
+
+ TP_GENERIC_GREETING_09:0 "You are the enemy of the [Root.GetAdj] people, and you will be dealt with as such."
+
+ TP_THREATENED_GREETING_02:0 "Enemies of the [Root.GetAdj] homeland! You vile [From.GetSpeciesNamePluralInsult] will never commit your atrocities here!"
+
+ TP_THREATENED_GREETING_03:0 "Your weapons and soldiers, while impressive, are no match for the pure, united spirit of the [Root.GetAdj] people."
+
+ TP_VASSAL_GREETING_01:0 "We serve you because we've realized that in doing so, we are furthering our own patriotic cause. We still put the [Root.GetAdj] first, [From.GetSpeciesNamePlural] second."
+
+ TP_DOW_PROPOSE_01:0 "This is a declaration of war! The [From.GetAdj] cause is just. The [Root.GetAdj] enemy will be defeated. Victory will be ours. Let the next great patriotic war commence!"
+
+ IM_HOSTILE_GREETING_02:0 "Do you [From.GetAdj] imperialists always like to annoy others like this? Leave us alone! You have already leeched off of other species and planets like parasites."
+
+ IM_HOSTILE_GREETING_03:0 "We need to learn about other, powerful states so that we can improve our situation. However, we find there is little to learn from the uncultured [From.GetAdj]. Can the [From.GetName] even consider itself a proper civilization?"
+
+ IM_THREATENED_GREETING_01:0 "If a [Root.GetAdj] soldier goes to the stars, they shall be a corpse in the vastness of space. But if they die for [Root.GetName], they shall regret nothing. We do not fear you."
+
+ IM_FRIENDLY_GREETING_01:0 "[From.GetAdj] technology, [Root.GetAdj] soul. Our people believe that is the best philosophy to have. Though we were once uncivilized, our friendship with you has helped us become stronger and more powerful, and for that we thank you."
+
+ IM_WAR_GREETING_01:0 "When we send our soldiers off the war, the intention isn't to let them return alive. It's to kill every single last one of you [From.GetAdj] bastards!"
+
+ IM_WAR_GREETING_03:0 "In attack and defense we have spaceships like floating metal castles that shall defend all points of the [Root.GetAdj] homeland. Our spaceships of pure metal shall destroy the [From.GetName] that has made an enemy of the [Root.GetName]."
+
+ IM_GENERIC_GREETING_04:0 "Only the mightiest civilizations survive in this galaxy of ours. You [From.GetAdj] are skilled in the arts of war, and our soldiers seek to learn your secrets, but we understand if you are hesitant. After all, what if one day we become the mighty ones?"
+
+ EB_HOSTILE_GREETING_01:0 "Thank you for contacting the Ministry of Foreign Affairs. Our representatives are currently all busy negotiating with more civilized xenos unlike the barbarian [From.GetAdj]. Currently, it will take... two hundred years for the next representative to be available. Thank you for waiting. If you wish to hear this message again, please press 4."
+
+ EB_HOSTILE_GREETING_03:0 "Why am I meeting with you? This must be some sort of clerical error. Senior [Root.GetAdj] bureaucrats have told me we have no interest in the savages that call themselves the [From.GetName]. Very well, you may speak, but I will have to file a complaint with the Department of Scheduling and Meetings after this."
+
+ EB_FRIENDLY_GREETING_03:0 "We are considering creating a sub-agency within the Ministry of Foreign Affairs called the Bureau of [From.GetAdj] Affairs, so that we can continue building an even closer relationship with the [From.GetName]. Unfortunately it will take a lot of time and paperwork...."
+
+ EB_WAR_GREETING_02:0 "The [Root.GetAdj] Office of Logistics is currently filing out paperwork to develop newer and better weapons that can be used against you, groveling [From.GetSpeciesNameInsult]. Hopefully, the Ministry of Defense will approve our paperwork!"
+
+ EB_VASSAL_GREETING_01:0 "Ah! The boss is here! Rest assured that as always, the [Root.GetAdj] bureaucracy is expanding to meet the needs of the expanding [From.GetAdj] bureaucracy."
+
+ GF_HOSTILE_GREETING_03:0 "The will of the [Root.GetAdj] citizens are clear: the [From.GetName] are a bunch of greedy, backstabbing bastards. We will tolerate no transgressions from your kind."
+
+ GF_NEUTRAL_GREETING_01:0 "Although in our history we have been sometimes strong, and sometimes weak, we have at no time lacked heroes. We are not to be trifled with, dear [From.GetAdj]."
+
+ GF_NEUTRAL_GREETING_03:0 "Remember, [From.GetAdj], we can easily be friends just as we can easily be enemies. We are fine with having another good neighbor around, but we are not reluctant to fight and defend ourselves if necessary. Keep that in mind."
+
+ GF_FRIENDLY_GREETING_03:0 "Though a [Root.GetAdj] soldier's first priority is to protect the [Root.GetName], his second is to protect our friends, the [From.GetName]."
+
+ GF_VASSAL_GREETING_DISLOYAL_01:0 "We have endured worse tyrants than the [From.GetAdj]. Your time will come, one day."
+
+ CN_HOSTILE_GREETING_02:0 "Our warriors look across your borders and see a weak and decadent state ripe for the picking. Surely your precious artwork and goods will sell for a very high price on [Root.GetAdj] markets, even if your citizens are otherwise worthless."
+
+ CN_HOSTILE_GREETING_03:0 "We are always open to adopting the ideas of other cultures, but we find that [From.GetAdj] society has little to offer, as it is worthless and full of vice and inefficiency."
+
+ CN_THREATENED_GREETING_01:0 "Oh look at you, so proud and arrogant. We are warriors and explorers as much as we are scholars and artists. What makes a [Root.GetAdj] a [Root.GetAdj] is the bravery!"
+
+ CN_FRIENDLY_GREETING_01:0 "Tell me more about the customs and practices of the [From.GetAdj]. I always like hearing about them."
+
+ CN_FRIENDLY_GREETING_02:0 "[From.GetAdj] armies are the equal of [Root.GetAdj] armies. Your learning is equal to ours. The sophistry and depth of your art is also equal to ours. We are almost like brothers and sisters in arms."
+
+ CN_WAR_GREETING_01:0 "The average [Root.GetAdj] is just as eager to study science or recite poetry as he is to do battle against the [From.GetAdj]!"
+
+ ST_FRIENDLY_GREETING_01:0 "Friend, it's a delight to see you! I must give you a gift. Would you like a highly-valued pleasure slave, skilled in many forms of entertainment? Or a warrior slave, to defend you forever and ever more? If you want something else perhaps I can give you gourmet [Root.GetAdj] pastries or other kinds of luxuries..."
+
+ ST_FRIENDLY_GREETING_02:0 "If there are ever any [From.GetAdj] slaves in the [Root.GetName], we try our best to ensure that they are given to kind and wise masters. We always want to make sure our [From.GetAdj] friends are treated well, even if they are slaves!"
+
+ ST_WAR_GREETING_01:0 "You know we do not enjoy waging war, given the risks it poses, but sometimes we have to do what we have to do. At the least, this war gives us new opportunities to acquire some [From.GetAdj] slaves."
+
+ ST_WAR_GREETING_02:0 "I hope that any [Root.GetAdj] master that happens to own a [From.GetAdj] slave treats them horribly! We will continue to fight until every last [From.GetSpeciesName] is enslaved and sold to the highest bidder!"
+
+ SP_HOSTILE_GREETING_03:0 "A wise [Root.GetAdj] knows when it is best to be silent. Unfortunately, the [From.GetAdj] is not wise, and seeks instead to trouble us with the incessant blabber of fools."
+
+ SP_NEUTRAL_GREETING_03:0 "There are always new opportunities to trade, and some [Root.GetAdj] merchants have expressed interest in the [From.GetAdj] market. Perhaps the [Root.GetName] and the [From.GetName] shall negotiate a treaty acceptable to us both. An exchange of goods, as well as ideas and cultures, would be encouraging."
+
+ SP_THREATENED_GREETING_01:0 "The [From.GetName] is like a rose with thorns. Dangerous, lethal even, but the [Root.GetAdj] cannot deny it has a certain beauty and allure. We only hope you are more the latter than the former."
+
+ SP_FRIENDLY_GREETING_01:0 "Many think of wealth and power as the greatest of achievements, but in this galaxy good health is peerless. The [Root.GetName] sends nothing but well wishes to the [From.GetName], that the [From.GetAdj] state may forever be strong and healthy until the end of days!"
+
+ SP_FRIENDLY_GREETING_03:0 "Ah, you know, friend, [From.GetAdj] products sell for high prices in our bazaars. It seems that many in the [Root.GetName] have taken a liking to the goods your people produce."
+
+ SP_WAR_GREETING_01:0 "Death is so fleeting, but glory is forever. The deeds of [Root.GetAdj] warriors as they defeat their [From.GetAdj] foes shall be remembered by generations to come!"
+
+ SP_WAR_GREETING_03:0 "Our warriors are some of the mightiest in the galaxy. I am sure your [From.GetAdj] weaklings are cowaring at the thought of battling our armies and fleets."
+
+ SP_VASSAL_GREETING_01:0 "The [Root.GetName] is not used to serving other nations, but we must do what we must. How can we help you, o mighty and wise [From.GetAdj]?"
+
+ EC_DOMINEERING_GREETING_01:0 "We consider ourselves progressive-minded. Anyone can be a master, anyone can join the ranks of the [Root.GetAdj] fleets and become a feared captain. But it seems that the spineless [From.GetSpeciesAdj] [From.GetSpeciesNameInsult] can never be a master, only a slave."
+
+ EC_NEUTRAL_GREETING_03:0 "Ah, we were expecting you. It is true we have a few [From.GetAdj] slaves on sale. If you wish to purchase their freedom, just have your money ready and I will be more than happy to help you."
+
+ EC_FRIENDLY_GREETING_03:0 "Who are your enemies, dear [From.GetAdj] friend? Tell us where they are, and we shall consider raiding their worlds for slaves. If we are successful, we shall sell you those slaves for very low prices!"
+
+ EC_WAR_GREETING_01:0 "The [From.GetAdj] shall all be enslaved! Hahaha! Why stop now? We will acquire so many slaves from this war, the profits shall be endless!"
+
+ EC_WAR_GREETING_03:0 "Many of our brave and sly warriors are instructed to seize any [From.GetAdj] they see so that they could be sold on the slave markets. Such are the customs of war for the [Root.GetName]!"
+
+ EC_DOW_PROPOSE_01:0 "This is a declaration of war! Every last [From.GetAdj] will either soon serve a [Root.GetSpeciesName] as a slave, or be sold for high prices on the galactic market!"
+
+ SLS_HOSTILE_GREETING_03:0 "Be careful, [From.GetAdj]. Your merchants are not welcome in the [From.GetName]. Who knows if someone might want to... steal their valuable goods."
+
+ SLS_NEUTRAL_GREETING_01:0 "Remember that though our most esteemed ruler, [Root.GetRulerTitle] [Root.GetRulerName], was born of the slave castes, all our leaders are, so do not look down on us as a nation of slaves. There is no shame in being a slave among the [Root.GetAdj] so long as you prove yourself a worthy warrior and leader."
+
+ SLS_NEUTRAL_GREETING_02:0 "We believe that it is better to be a valorous slave than a cowardly master. Would the [From.GetAdj] agree?"
+
+ SLS_THREATENED_GREETING_01:0 "Do not scorn us merely because we are ruled by slave lords, [From.GetAdj]! We have bravery and honor - can you say the same?"
+
+ SLS_WAR_GREETING_03:0 "I would be careful if I were you, [From.GetAdj]. Our warrior slaves have been trained since birth to fight and to kill. Your leaders may have been born free, but what use is that freedom if they can't defend it? That is why we will win in the end."
+
+ SLS_DOW_PROPOSE_01:0 "This is a declaration of war! The slave lords of the [Root.GetName] have longed to test the strength of our arms against the villainous [From.GetAdj]. Let's see what you are made of!"
+
+ WM_HOSTILE_GREETING_02:0 "We must coexist in harmony, but you try our patience, o [From.GetAdj]. Sometimes, we must make exceptions."
+
+ WM_DOMINEERING_GREETING_01:0 "Every [From.GetAdj] I have ever met was full of impatience and a lack of wisdom. It is little wonder that the [From.GetName] lacks strength and prestige in the galactic community."
+
+ WM_WAR_GREETING_01:0 "The darkness in the hearts of every [From.GetAdj] is disconcerting. It is something we must fight against."
+
+ WM_WAR_GREETING_03:0 "Our warriors are not only mighty and strong, but full of wisdom, patience, and compassion. That is why they are the envy of the galaxy, and that is why our victory against the forces of [From.GetAdj] darkness is inevitable."
+
+ AP_NEUTRAL_GREETING_03:0 "The galaxy is ancient and full of wonders. We, the [Root.GetAdj], hope to show the many young and innocent races of this unicerse those wonders."
+
+ AP_FRIENDLY_GREETING_03:0 "Together, the [Root.GetAdj] and the [From.GetAdj] have united to instruct and mentor the younger races. One day, they shall appreciate us as [Root.GetSpeciesAdj] [Root.GetSpeciesSpawnNamePlural] and [From.GetSpeciesAdj] [From.GetSpeciesSpawnNamePlural] appreciate their beloved parents."
+
+ LM_HOSTILE_GREETING_01:0 "Dealing with the [From.GetAdj] is such a headache. All we want to do is relax and do the minimal amount of work necessary, but here you come barging in interrupting us."
+
+ LM_DOMINEERING_GREETING_01:0 "Who... who are you again? Oh, you, the [Root.GetAdj]. Right. I don't think we're interested in negotiating with you. Too much hassle, too much headache."
+
+ LM_FRIENDLY_GREETING_01:0 "It appears that the [From.GetName] likes the [Root.GetAdj]. Does the [Root.GetName] need to be liked? Absolutely not. We like to be liked. We enjoy being liked. We have to be liked. But it's not like a compulsive need to be liked. Like our need to be praised."
+
+ LM_FRIENDLY_GREETING_03:0 "There is a [Root.GetSpeciesAdj] proverb that goes, 'Progress doesn't come from early risers - progress is made by lazy men looking for easier ways to do things.' Let us be lazy together, [From.GetAdj] friends!"
+
+ IO_NEUTRAL_GREETING_02:0 "We always pose the following question to the [From.GetAdj]: How do you think you can help us? If you think we share mutual goals, perhaps we can work some agreements out. If not, then you should just leave us."
+
+ IO_THREATENED_GREETING_01:0 "Be careful, [From.GetAdj]. It would be unwise to underestimate us. When you least expect it, we will make our comeback."
+
+ IO_FRIENDLY_GREETING_02:0 "The [Root.GetName] does not have 'friends,' only allies and those who happen to share common interests with us. However, we will admit that the [From.GetAdj] are somewhat like friends to us. Somewhat. Do not presume we will eliminate you from the competition if it is in our best interests."
+
+ NA_HOSTILE_GREETING_03:0 "The [From.GetAdj] are not very pleasant. Please, tell us why you are like this."
+
+ NA_WAR_GREETING_03:0 "You've bullied us long enough, [From.GetAdj]. We hate fighting, but sometimes we have no choice."
+
+ EIX_DOW_PROPOSE_10:0 "This is a declaration of war! [Root.GetAdj] HQ wishes for me to inform you that we are about to begin our latest and most ambitious project to date - the complete obliteration of every living [From.GetSpeciesName] in the galaxy! Isn't this such a spectacular development? We hope you'll stick with us for the ride! It's going to be a one of a kind, lifetime experience."
+
+ DB_HOSTILE_GREETING_04:0 "You are disgusting. So disgusting even the most desperate [Root.GetAdj] wouldn't want to breed with you. Haven't we told you already that we've rejected your affections?"
+
+ DB_NEUTRAL_GREETING_02:0 "The [Root.GetAdj] are known throughout the galaxy for being the best lovers. We can show you our abilities, if you like..."
+
+ DB_THREATENED_GREETING_03:0 "[From.GetAdj] like playing rough, don't they? They like dominating other species and showing them their place, no? Such unbridled, aggressive, primal power."
+
+ DIE_HOSTILE_GREETING_02:0 "Why are the [From.GetAdj] always so rushed? Why do you spend so much time worrying about power and glory? Such arrogance and ignorance! You must learn to calm yourself, see the brightness of the stars and the darkness of the night for what they are, and not as material resources to be exploited."
+
+ HP_NEUTRAL_GREETING_01:0 "[From.GetAdj] seem to possess so much optimism. How can someone be so full of hope in a universe filled with grim darkness?"
+
+ HP_NEUTRAL_GREETING_02:0 "Yes, we [Root.GetAdj] are a cynical lot. Don't let that prevent you from dealing honorably with us. We are not nihilists, and don't take kindly to tyrants, bullies, and morons."
+
+ HP_FRIENDLY_GREETING_01:0 "Your efforts to cheer us up, while futile, are appreciated, [From.GetAdj] friends. Someday we hope to return the favor."
+
+ COF_HOSTILE_GREETING_01:0 "Our finest minds agree - [From.GetAdj] cuisine is nothing but a pitiable, disgusting pile of mush wrapped together in [From.GetSpeciesInsult] manure."
+
+ COF_DOMINEERING_GREETING_01:0 "It is evident that our style and methods of cooking are superior to whatever gruel [From.GetAdj] cooks can whip up."
+
+ COF_NEUTRAL_GREETING_02:0 "Many of our culinary experts would like to learn more about [From.GetAdj] cuisine. Which spices do you use? Do you prefer your food hot or cold? What sort of theories have your culinary scientists theorized?"
+
+ COF_FRIENDLY_GREETING_01:0 "Dear friends! Let it be known that our culinary experts consider [From.GetAdj] cooking the finest in the galaxy... second to only our own, of course."
+
+ COF_FRIENDLY_GREETING_02:0 "Did you know that [From.GetAdj] food is very popular in the [Root.GetName]? I'd be alarmed as even our food is starting to take [From.GetAdj] influences, if it weren't for the fact your food is so delicious!"
+
+ COF_FRIENDLY_GREETING_03:0 "Everybody eats [From.GetAdj] cuisine nowadays in the galaxy, and it's clear why! Few species can cook in such a way that satisfies everyone."
+
+ MC_FRIENDLY_GREETING_03:0 "The music of the [From.GetAdj] is most pleasurable, of an excellent quality, unmatched in depth and thought (except when compared to our own of course), and highly recommended to all music-loving patrons of the galaxy."
+
+ MC_WAR_GREETING_01:0 "Hear you not the drums of war beating, fiend? Hear you not the fierce chanting of our warriors? Hear you not the wailing cries of the [From.GetAdj] people as our fleets come to destroy your planets? This is the music of our war!"
+
+ MC_COMMENTARY_GREETING_01:0 "The serene sounds of prayer. When we listen to the religious music of the [From.GetName], it does lend itself a rather otherworldly feeling. One feels at peace, regardless of the actual truth of the [From.GetAdj] worldview."
+
+ MC_COMMENTARY_GREETING_03:0 "Dissonance, severity, a penchant for brash and bold sounds. These are the marches and military songs that make up the main corpus of [From.GetAdj] musical repetoire. It can be an acquired taste, but has its charm."
+
+ MC_COMMENTARY_GREETING_04:0 "[From.GetAdj] music has earned some admirers in the [Root.GetName]. Songs of peace, as we call the genre. A niche sort of interest, but one that can be fascinating on occasion, or at least relaxing enough to be elevator music, if nothing else."
+
+ MC_COMMENTARY_GREETING_05:0 "The music of the [From.GetName] is interesting in that it accepts foreign influences readily - nay, it prospers and thrives in its foreign influences, to the point where for most laymen it is hard to distinguish what the original [From.GetAdj] music must've sounded like."
+
+ MC_COMMENTARY_GREETING_06:0 "[From.GetAdj] music celebrates the achievements of your people, the superiority of the [From.GetAdj] over all others. We'll see in the end whose music is better."
+
+ MC_VASSAL_GREETING_DISLOYAL_02:0 "No seductive melody of [From.GetAdj] could ever win us over. We know your tricks. We are only here as your unwilling slaves, nothing more."
+
+ MC_VASSAL_GREETING_DISLOYAL_03:0 "Yes, you hear that? That is a song of woe, of misery, of sadness, as we are forced to toil for our [From.GetAdj] masters. But it is also a song of will and endurance, you see, of hope - a hope that one day we shall be free once more, free forevermore."
+
+ CI_HOSTILE_GREETING_01:0 "Know that [From.GetAdj] living in the [Root.GetName] are treated with dignity and respect, even if we find it hard to do so."
+
+ CI_NEUTRAL_GREETING_03:0 "We are the [Root.GetName]. The [Root.GetAdj] are citizens of the galaxy, and the [From.GetAdj] as well, and we all serve it in our own ways."
+
+ CI_WAR_GREETING_01:0 "Ah, you think our soldiers cowards? We disagree. [Root.GetAdj] are but the dust of the stars. They know their doom, and honorably face their apportioned fate, then fall."
+
+ CI_WAR_GREETING_02:0 "We've seen fresh [Root.GetAdj] recruits with more skill than your armies!"
+
+ CI_VASSAL_GREETING_01:0 "It is clear the [Root.GetName] is not as strong as it once was. [From.GetAdj] masters, your destiny calls you down a different road, however. Help us, and we shall help you."
+
+ CI_VASSAL_GREETING_DISLOYAL_01:0 "Look around your empire, [From.GetAdj], and you'll see that your terror has made you many enemies. Just between you and me, a lot of they say about the [From.GetName] is true."
+
+ CI_DOW_PROPOSE_02:0 "This is a declaration of war! [From.GetRulerTitle] [From.GetRulerName]! You are guilty of violating galactic law, murder of [From.GetAdj] citizens, and conspiracy against the [Root.GetName]. It's over!"
+
+ BOP_HOSTILE_GREETING_01:0 "What are scholarship, love, and mercy when compared to fate, night and destruction? You walk the path of defeat and sorrow, [From.GetAdj]!"
+
+ BOP_NEUTRAL_GREETING_07:0 "The [Root.GetAdj] were once you, asleep, unwise, protonymic, but are no more. "
+
+ BOP_THREATENED_GREETING_01:0 "We do not fear you, [From.GetAdj]. Paradise awaits us!"
+
+ BOP_THREATENED_GREETING_02:0 "Well done, [From.GetAdj] champions! You think we mock you? Not at all. You are the great defender of a decadent reality. We are the midwife of a new dawn, a galaxy reborn. We welcome you, if you truly are the agent of Fate. We tire of self-styled heroes who set themselves in our path, only to prove unworthy in the event."
+
+ BOP_FRIENDLY_GREETING_01:0 "Greet the new day, [From.GetAdj] brothers and sisters. A new dawn shall soon rise over the galaxy, and we its masters."
+
+ BOP_FRIENDLY_GREETING_02:0 "Praise be to you, [From.GetAdj] brothers and sisters. Great shall be your reward in Paradise! Now we sit and wait to feast with you on all the worlds of this cosmos. Rejoice in the promise of paradise! Liberty!"
+
+ BOP_FRIENDLY_GREETING_04:0 "Praise be to our [From.GetAdj] brothers and sisters! Praise be to paradise! Liberty!"
+
+ SL_HOSTILE_GREETING_01:0 "We are the mighty [Root.GetName] and our lore is our greatest weapon. You [From.GetAdj], so ignorant and vile, are worthy of only being our slaves."
+
+ SL_NEUTRAL_GREETING_03:0 "In [Root.GetSpeciesAdj] society, rebellious slaves are given the most compassionate of punishments, for they are placed in 'wailing wheels,' 'gut gardens,' and 'flesh-sculptures' for all [Root.GetAdj] to admire."
+
+ SL_FRIENDLY_GREETING_01:0 "In the caverns of lore, ugly and obscure, shines the gold of truth. Wear lore as your armor, [From.GetAdj] friends. The galaxy is ancient and full of dangers."
+
+ SL_FRIENDLY_GREETING_02:0 "Bless and blessed be, [From.GetAdj] friends. The many races that litter this galaxy are, for the most part, inferior of worth and lacking in judgment, but we find the [From.GetSpeciesNamePlural] to be the exception. Let us share lore and understand the secrets of reality."
+
+ SL_FRIENDLY_GREETING_03:0 "Come, [From.GetAdj] friends, we have entertainment to show you. What you call torture we call art. Feast your eyes on the visually pleasing design of our slaves' entrails and blood, smeared across purest stone. Or perhaps would you prefer to hear their screams, a symphony to the ears?"
+
+ SL_WAR_GREETING_03:0 "By our power, the mortal [From.GetAdj] shall be cast down!"
+
+ SL_DOW_PROPOSE_01:0 "This is a declaration of war! [From.GetAdj] fools! You are of inferior stock, and would make good slaves."
+
+ TN_HOSTILE_GREETING_03:0 "Who are the ones leading the conspiracy.... Is it you, [From.GetAdj] 'friends'? We have undoubtedly earned your enmity by our vigilance numerous times."
+
+ TN_DOW_PROPOSE_01:0 "This is a declaration of war! Just as we suspected! They've gotten to the [From.GetAdj] too! Now we know for sure that the galaxy is all in on the conspiracy against the [Root.GetName]. And therefore they all have to die - starting with you!"
+
+ POM_FRIENDLY_GREETING_03:0 "What heroes the [From.GetAdj] are! You should be off like the wind, solving problems and doing good deeds! And if not good deeds, then deeds of a sort. Strongholds to save, and [Root.GetSpeciesNamePlural] to rescue."
+
+ POM_FRIENDLY_GREETING_04:0 "You are far too hard on yourself, our dear, sweet, xenocidally insane [From.GetAdj] friends. What would the galaxy's denizens do without you? Dance? Sing? Smile? Grow old? "
+
+ POM_WAR_GREETING_04:0 "[From.GetAdj] armies and fleets move faster than we'd expect. And we're good at expecting. Things are getting a bit thin."
+
+ POM_VASSAL_GREETING_03:0 "We hope our [From.GetAdj] masters are having a good time. Actually, we hope we are having a good time. We could care less about you."
+
+ EOL_FRIENDLY_GREETING_03:0 "Hail, [From.GetAdj] friends. Is there a problem?"
+
+ EOL_VASSAL_GREETING_01:0 "All hail our [From.GetAdj] overlords! Together we shall rid the galaxy of criminal scum."
+
+ FOW_NEUTRAL_GREETING_01:0 "Learn to venerate the gods properly, [From.GetAdj]. If you do not, how will the universe continue to live as it always had? We alone cannot provide the gods with the sustenance they need."
+
+ FOW_NEUTRAL_GREETING_02:0 "Some say we sacrifice any sentient being as part of our spiritual practices. They are absolutely correct. Whether it is [Root.GetAdj] blood or [From.GetAdj] blood, the Gods care not. A flower is beautiful no matter its origin, a sacrifice is honorable no matter its origin."
+
+ FOW_THREATENED_GREETING_01:0 "Be careful, [From.GetAdj]. Your pride might be your downfall. Remember that it is only through blood sacrifices that the universe will continue to exist."
+
+ FOW_WAR_GREETING_01:0 "Be joyful, dearest [From.GetAdj]! Every one of your warriors we capture in battle is sacrificed before the altars of the [Root.GetSpeciesAdj] deities - their blood shall give new life to the universe, like young flowers blooming anew!"
+
+ FOW_WAR_GREETING_03:0 "We look forward to fighting against the [From.GetName], for our brave and cunning warriors will acquire a great number of [From.GetAdj] captives for our blood sacrifices. It is absolutely necessary in order to ensure the continued existence of the universe."
+
+ FOW_VASSAL_GREETING_01:0 "We pay homage to you, [From.GetAdj] masters. Several [From.GetSpeciesNamePlural] have volunteered themselves for the blood sacrifice in your honor. They shall be the flowers that shine in the light of the majesty that is your sun."
+
+ NP_NEUTRAL_GREETING_02:0 "As every sentient species has a right to live in accordance with its normal cultural evolution, no [Root.GetAdj] may interfere with the healthy development of alien life and culture. Such interference includes introducing superior knowledge, strength, or technology to a society incapable of handling them wisely."
+
+ NP_THREATENED_GREETING_01:0 "Might and influence might be yours, [From.GetAdj], but remember not to be tempted by the lure of power. We believe it is still your moral necessity that you do not disturb the natural way of things."
+
+ NP_WAR_GREETING_02:0 "We do not believe war is enjoyable, nor is it desirable, but every [Root.GetAdj] soldier knows that they are fighting for a higher cause."
+
+ NP_DOW_PROPOSE_01:0 "This is a declaration of war! We prefer not to get involved in others' afffairs, but [From.GetAdj] have for too long engaged in wanton crimes against nature, upsetting the balance of the galaxy. That stops today."
+
+ ID_HOSTILE_GREETING_03:0 "Why do the [From.GetAdj] insist on finding the easy way out? You cannot create beauty or intelligence or success through artificial means - they must be acquired naturally through diligence, commitment, and staying true to yourselves!"
+
+ ID_DOMINEERING_GREETING_01:0 "[Root.GetSpeciesAdj] [Root.GetSpeciesSpawnNamePlural] learn from [From.GetAdj] mistakes, for you are an entire society seemingly dedicated to improving yourself through deception and finding the easy way out, instead of actually working on your goals. It has clearly not resulted in the best for you given the paltry state of the [From.GetName]."
+
+ ID_NEUTRAL_GREETING_01:0 "Fake it until you make it is what we always tell our [Root.GetSpeciesSpawnNamePlural]. If you don't ever try, how do you know you'll ever make it? So tell us what you want, then, [From.GetAdj]. Maybe we'll turn you down, maybe we won't. It's up to you to take the risk, no one else."
+
+ ID_FRIENDLY_GREETING_02:0 "What doesn't kill you make you stronger. The citizens of [Root.GetName] have long admired the tenacity and determination of the [From.GetAdj] soul. You set an example for all the galaxy who wish to better themselves."
+
+ ID_FRIENDLY_GREETING_03:0 "It's clear why the [From.GetName] is such a great nation. Instead of deluding yourselves with artificial displays of strength and beauty, [From.GetAdj] proudly display their true authentic selves, with all the good and all the flaws that come with it. By being true to yourselves, you have unleashed your inner power."
+
+ ID_WAR_GREETING_01:0 "You miss a hundred percent of the shots you don't take. [From.GetAdj] ships also miss a hundred percent of the shots they take due to the incompetence of their soldiers."
+
+ ID_VASSAL_GREETING_01:0 "We have much to learn from you, [From.GetAdj], about the values of hard work and believing in yourself. Only then can we achieve greatness."
+
+ ID_VASSAL_GREETING_DISLOYAL_01:0 "We've tried so hard to inspire the [From.GetName] to do better and dream better, but time and time again it seems that the [From.GetAdj] just want the easy way out. We no longer believe in you. Perhaps we never believed in you to begin with."
+
+ CSG_HOSTILE_GREETING_05:0 "When one hears the eloquent language of our poetry, one cannot help but weep when the emotions are provoked, and sigh at its penetrating insights. When one hears the pedestrian poetry of the [From.GetAdj], one cannot help but weep at its deficient quality, and sigh at its cliches and banality."
+
+ CSG_NEUTRAL_GREETING_02:0 "Let us share a drink of [From.GetAdj] tea, and recite the most eloquent and moving poetry our nations' poets have composed, before comparing them to see which is the superior. "
+
+ CSG_NEUTRAL_GREETING_08:0 "To know what you know, and to know what you do not know - this is true wisdom. What do the [From.GetAdj] know? What do the [From.GetAdj] not know?"
+
+ CSG_FRIENDLY_GREETING_04:0 "Friends! Let us enjoy a warm cup of [Root.GetAdj] tea and recite ancient poetry, before we attend to the business of the day."
+
+ CSG_WAR_GREETING_04:0 "Would you like to drink some [Root.GetAdj] tea with us? Even if we are enemies, that does not mean we cannot enjoy some poetry, listen to music, and engage in pleasant conversation, before we must inevitably return to the battlefield."
+
+ CSG_VASSAL_GREETING_DISLOYAL_03:0 "The barbarian nature of our [From.GetAdj] rulers shows clearly as a star in the night sky. They are incapable of learning the proper rituals, unable to prove themselves in culture and learning. How terrible it is, then, that they lord over us! One can only weep at such tragedy."
+
+ MK_HOSTILE_GREETING_01:0 "You [From.GetAdj] whose fathers and grandfathers are like worthless dirt! What do you want from the great [Root.GetName]? Watch your words carefully, filthy barbarian, or we might execute your messengers."
+
+ MK_HOSTILE_GREETING_03:0 "Has [From.GetRulerTitle] [From.GetRulerName] lost the Mandate of Heaven? Oh, what are we even saying. It is [Root.GetRulerTitle] [Root.GetRulerName] who has the Mandate of Heaven - how could barbarians such as the [From.GetAdj] ever have it?"
+
+ MK_DOMINEERING_GREETING_02:0 "The [From.GetName] are primitive and uncultured, barely more sentient than [From.GetSpeciesNamePluralInsult]. Their products, while of questionable quality, may be of interest to [Root.GetAdj] traders."
+
+ MK_NEUTRAL_GREETING_01:0 "We are the [Root.GetName], and we have the Mandate of Heaven. As heaven's filial sons and daughters, we will duly serve the wishes of heaven. Therefore, it would be prudent for the [From.GetAdj] to pay us their proper respects and give us proper tribute, for we are the center of the galaxy."
+
+ MK_FRIENDLY_GREETING_01:0 "A word of advice to our cherished friends in the [From.GetName]: In peaceful times we may esteem moral conduct, but when there is trouble it is achievement and ability that is rewarded. It is good that [From.GetAdj] show both qualities of moral conduct as well as achievement and ability."
+
+ MK_FRIENDLY_GREETING_06:0 "[From.GetAdj] friends, honoured by all, we pay respect to you and are pleased to hear that [From.GetRulerTitle] [From.GetRulerName] is in good health. Let us talk of how we can bolster trade and commerce among our two peoples."
+
+ MK_VASSAL_GREETING_DISLOYAL_01:0 "[From.GetAdj] lords, you arrive before us once more. What is your will? We find fault in all your decisions, yet we must follow without question... for now."
+
+ BS_HOSTILE_GREETING_01:0 "You [From.GetAdj] are such unlikeable and vulgar fellows. We would never associate ourselves with the likes of you! It would be unbecoming of our race."
+
+ BS_HOSTILE_GREETING_05:0 "Yes, it is true, we are fairy-spirits of a sort, who have ascended our previously lesser natures. It's clear that you [From.GetAdj] are the opposite - your true natures are ruined as you become hungry ghosts and wanton demons."
+
+ BS_THREATENED_GREETING_01:0 "Oh! We are mere fairies who live in our humble land of [Root.GetHomeWorldName], what quarrel would we ever have with the great [From.GetAdj]? We wish you nothing but peace and happiness."
+
+ BS_FRIENDLY_GREETING_01:0 "We [Root.GetAdj] are but humble fairies, who love to dance and sing and engage in pleasant conversation. We have learned our ways from the heavens, and everyone says we are so enchanting. Friends, would you like to join us in some dance and song?"
+
+ BS_WAR_GREETING_01:0 "All's fair in love and war, [From.GetAdj]. By the way, we still think you need to relax and take it easy. There's no way you're going to win this war if you're so serious and narrow-minded."
+
+ BS_DOW_PROPOSE_03:0 "This is a declaration of war! [From.GetAdj] are such pitiful beggars and ruffians who need to learn a thing or two about life. As the heavenly spirits who come from [Root.GetHomeWorldName], we'll show you a thing or two."
+
+ SLAVER_GENERIC_GREETING_01:0 "[From.GetAdj] slaves are known throughout the [Root.GetName] for being particularly spiritual. That does make them quite interesting purchases, one must admit...."
+
+ SLAVER_GENERIC_GREETING_02:0 "[From.GetAdj] slaves seem well-suited for tasks requiring technological knowledge."
+
+ SLAVER_GENERIC_GREETING_06:0 "Many in the [Root.GetName] prefer to buy [From.GetAdj] slaves. Even if they have rebellious personalities, they often will try to at least learn a new language, or adapt to our customs, in order to make things easier."
+
+ SLAVER_GENERIC_GREETING_07:0 "[From.GetAdj] slaves are in high demand in the [Root.GetName] as they tend to be obedient. It seems that like us, you also accept that there are those who lead, and those who follow."
+
+ SLAVER_GENERIC_GREETING_08:0 "[From.GetAdj] slaves tend to be pretty cheap in the markets of [Root.GetHomeWorldName]. They are rarely obedient, ranting about how they're free and have no master, so they hardly make good slaves and few want to buy them."
+
+ SLAVER_GENERIC_GREETING_09:0 "Ah! Is there a [Root.GetAdj] who doesn't want their own [From.GetSpeciesAdj] pleasure slave? The [From.GetSpeciesAdj] [From.GetSpeciesNameCompliment] are renowned all over the galaxy for their foreign and exotic allure!"
+
+ SA_HOSTILE_GREETING_03:0 "Our dialogue may be rather polite and civil now, but the audiences watching our story unfold all know that one day, the [Root.GetAdj] heroes will have to face off against the [From.GetAdj] villains. Will you be ready when that day comes?"
+
+ SA_DOMINEERING_GREETING_01:0 "Ah! You think yourself so powerful now, don't you, [From.GetAdj]? I am sure the writers of this story have a great plot twist in store for you. Imagine it, so beautifully written - a fall from grace. Twice the pride, double the fall."
+
+ SA_FRIENDLY_GREETING_03:0 "[From.GetAdj] friends, a little secret - sometimes, we have to wonder why we all say the things we do. Whoever wrote the terrible dialogue in our story has poor taste and humor."
+
+ SA_FRIENDLY_GREETING_04:0 "Who knows how the writers intend for the story of our galaxy to play out. But we have a feeling the sanctity and power of friendship, such as that between the [Root.GetAdj] and [From.GetAdj], are one of the core themes of this story."
+
+ SA_WAR_GREETING_03:0 "Remember, [From.GetAdj] villains, the audiences are rooting for us! US! For we are the heroes who will banish you from the netherworlds you came from."
+
+ SA_COMMENTARY_GREETING_10:0 "It seems that whoever is writing our stories intend for the [From.GetAdj] to be intelligent and capable in several areas. It will remain to be seen exactly what the writers intend for you to do with such knowledge."
+
+ SA_COMMENTARY_GREETING_12:0 "There is something about the [From.GetAdj] language, clothing, and appearance, that is likeable. Ah! It is very clear that the writers intend for you to provide the fanservice in the story of the galaxy. A well-deserved role, but we have to wonder what exactly the audience likes about you."
+
+ SA_COMMENTARY_GREETING_13:0 "There is something about the [From.GetAdj] language, clothing, and appearance, that is likeable. Ah! It is very clear that the writers intend for you to provide the fanservice in the story of the galaxy. Although you are villains, it is said, after all, that evil is quite seductive."
+
+ SA_VASSAL_GREETING_02:0 "We are loyal to you, [From.GetAdj]. That is what the story of the galaxy calls for at this moment, and so we shall act our roles with utmost conviction."
+
+ SA_DOW_PROPOSE_02:0 "This is a declaration of war! A new chapter in our galaxy's story is about to unfold, with the two of us as the point of view characters. Prepare yourself, [From.GetAdj] villains, your reign of terror is at an end!"
+
+ TIAM_GENERIC_GREETING_11:0 "You understand a little, don't you, [From.GetAdj]? Yes, search your feelings. You know it to be true. You know that we don't destroy out of bloodlust, but to free all the sentients from their virtual bodies and this computer simulation."
+
+ TIAM_DOW_PROPOSE_01:0 "This is a declaration of war! The Watchers are, unfortunately, quite powerful. It is they after all who designed the Machine we are all plugged into. But don't you see? If one figures out a way to unplug themselves, one can be free - and we believe the way to do that is through death. It is now time for the [From.GetAdj] to be free at last!"
+
+ POK_HOSTILE_GREETING_03:0 "Our libraries are off-limits to [Root.GetAdj] scholars. Your scholars have no right to call themselves scholars, so uncouth and uneducated as they are."
+
+ POK_THREATENED_GREETING_02:0 "You may laugh at us, arrogant [From.GetAdj], but our children look to our tales from antiquity, and they are inspired. They know that one day, they can emulate their ancestors and revive the fortunes of the [Root.GetName]."
+
+ POK_COMMENTARY_GREETING_03:0 "So shall it be written: 'The envoys of [From.GetRulerTitle] [From.GetRulerName] came to us on this day. The [From.GetAdj], known for their skills in politics, were not to be trifled with, so we proceeded with caution and prudence.'"
+
+ POK_VASSAL_GREETING_01:0 "So shall it be written: 'Head bowed, with deep reverence, it was [From.GetRulerTitle] [From.GetRulerName] who approached the master of the [Root.GetSpeciesNamePlural], the [From.GetAdj], [From.GetRulerTitle] [From.GetRulerName] on this day.'"
+
+ PN_HOSTILE_GREETING_03:0 "Stay out of trouble, [From.GetAdj] trash."
+
+ PN_HOSTILE_GREETING_06:0 "Blasted [From.GetAdj]. Don't you realize we have larger concerns at the moment?"
+
+ PN_HOSTILE_GREETING_08:0 "Our ancestors are smiling at us, [From.GetAdj]. Can you say the same?"
+
+ PN_DOMINEERING_GREETING_01:0 "Wonder what it must be like to be a [From.GetAdj] these days, now that you've been taken down a notch."
+
+ PN_DOMINEERING_GREETING_02:0 "Someone should teach the [From.GetAdj] some manners. Bother us again, and you might live to regret it."
+
+ PN_DOMINEERING_GREETING_03:0 "You prissy [From.GetAdj] couldn't even help a finger to help your neighbors, and to be honest, they wouldn't want you too."
+
+ PN_NEUTRAL_GREETING_06:0 "Look deeply into the faces of the [Root.GetAdj] around you. These are the true sons and daughters of the [Root.GetName]. See its strength and nobility in their eyes."
+
+ PN_FRIENDLY_GREETING_04:0 "There has never been a truer and nobler friend of the [Root.GetName] than the [From.GetAdj]."
+
+ PN_FRIENDLY_GREETING_07:0 "All hail the [From.GetAdj], true sons and daughters of the [From.GetName]!"
+
+ PN_FRIENDLY_GREETING_08:0 "Every [Root.GetAdj] thinks highly of the [From.GetName]. You fight for yourselves, as should be, but you also have proven honorable friends to us."
+
+ PN_WAR_GREETING_04:0 "Die, [From.GetAdj] filth! We've fought [From.GetSpeciesNamePluralInsult] stronger than you!"
+
+ PN_WAR_GREETING_06:0 "There is no progress without sacrifice. The [From.GetName] must be swept away. The [Root.GetAdj] people demand it. [Root.GetRulerTitle] [Root.GetRulerName] demands it."
+
+ PN_WAR_GREETING_08:0 "We'll have your heads, you filthy [From.GetAdj]!"
+
+ PN_VASSAL_GREETING_03:0 "Hail [From.GetRulerTitle] [From.GetRulerName], noble guide of all [Root.GetAdj] and [From.GetAdj]!"
+
+ PN_VASSAL_GREETING_DISLOYAL_01:0 "Maybe the reason why we've been on hard times recently is because of all the [From.GetAdj] species swarming around the [Root.GetName]! Maybe we don't need you!"
+
+ PN_DOW_PROPOSE_02:0 "This is a declaration of war! Is any [Root.GetRulerTitle] ever ready to give the order that will mean the deaths of many? No. But [Root.GetRulerTitle] [Root.GetRulerName] knows it is now time to fight the [From.GetAdj] tyrants and bring freedom to the galaxy, once and for all."
+
+ HS_HOSTILE_GREETING_04:0 "We intend to prove the superiority of [Root.GetAdj] over [From.GetAdj], one century at a time."
+
+ HS_HOSTILE_GREETING_06:0 "Are you trying to interfere with official [Root.GetAdj] business?"
+
+ HS_VASSAL_GREETING_02:0 "What are your orders, [From.GetAdj]?"
+
+ RH_HOSTILE_GREETING_05:0 "[From.GetAdj] have little patience, it seems. Understanding and triumph will only come to those who wait and think. Take more time to meditate on the solemn profundity of the universe."
+
+ RH_FRIENDLY_GREETING_05:0 "I think the [From.GetAdj] understand. The gifts bestowed onto us by the divine must not be used for vain and arrogant means."
+
+ RH_DOW_PROPOSE_02:0 "This is a declaration of war! Your hubris will be your downfall, your thirst for conquest your undoing. We are [Root.GetAdj] of peace, but even we have our limits."
+
+ UA_HOSTILE_GREETING_02:0 "Even our simplest machines possess more intellect than the most intelligent [From.GetAdj]. Ha! Hilarious! A [From.GetAdj] cannot compare with even an unliving, simple clump of metal!"
+
+ UA_FRIENDLY_GREETING_04:0 "When reality first convened and created us all, it seems to have put a lot of good, respectable qualities in the [From.GetAdj]."
+
+ OP_HOSTILE_GREETING_01:0 "You have something to say, you heap of [From.GetAdj] dung?"
+
+ OP_THREATENED_GREETING_01:0 "The [From.GetAdj] are nothing like [Root.GetAdj] warriors. You are true cold-blooded killers and tyrants."
+
+ OP_THREATENED_GREETING_02:0 "[Root.GetName] is going to hell in a dungheap at this rate. To think that we are that much weaker than the prissy [From.GetAdj]."
+
+ OP_FRIENDLY_GREETING_04:0 "We have seen a glorious vision of war and battle for the [Root.GetName],  [From.GetAdj] friends. How do you fit in all this? If you are fated to fight against us, we cannot think of a more worthy opponent to fight. If you are fated to fight alongside us, we cannot think of a more worthy ally to fight with."
+
+ OP_WAR_GREETING_03:0 "We'll show you a real fight! No one bests a [Root.GetAdj]."
+
+ SOB_HOSTILE_GREETING_02:0 "Us? Self-absorbed? No, it is you, insecure [From.GetAdj], who are self-absorbed."
+
+ SOB_HOSTILE_GREETING_03:0 "When we have parties, no one ever wants to invite a [From.GetAdj] over. That would be such a faux pas. You all are weaklings, self-pitying and lacking in confidence. "
+
+ SOB_HOSTILE_GREETING_08:0 "There are xenos out there who don't care about physical appearance? Hilarious! Who could be so insecure and idiotic? Besides you [From.GetAdj] of course."
+
+ SOB_DOMINEERING_GREETING_03:0 "We might consider letting our experts perform facial and body reconstruction surgery on [From.GetAdj] patients for a discounted price, given the sorry state of your so-called empire."
+
+ SOB_FRIENDLY_GREETING_06:0 "[From.GetAdj] are enlightened. They understand that the propaganda about 'natural' beauty is a lie many tell to alleviate their insecurities. They embrace the idea that it is not wrong to change one's appearance to be more beautiful, that it is not wrong to become more confident."
+
+ QC_HOSTILE_GREETING_05:0 "[From.GetAdj] are evil. We must stay away from you. §RDo not go near us.§! Go away. Begone."
+
+ QC_DOMINEERING_GREETING_02:0 "Move along. You have nothing to see. It will be bad if you saw things. You unhappy [From.GetAdj], you will be even more unhappy if you saw things."
+
+ QC_DOMINEERING_GREETING_03:0 "We know what [From.GetAdj] agents have been doing. You want to ruin our happiness, because you are so unhappy. Be on your way. Go. §RThere is nothing here. Nothing at all.§!"
+
+ QC_THREATENED_GREETING_03:0 "We know what [From.GetAdj] agents have been doing. You want to ruin our happiness, because you are so unhappy. Be on your way. Go. §RThere is nothing here. Nothing at all.§!"
+
+ QC_DOW_PROPOSE_01:0 "What do you think you are doing, [From.GetAdj]? We know you hate us. We know you are unhappy. We know you are jealous. You need to be punished. Destroyed. Massacred. §RYou will die.§!"
+
+ ES_HOSTILE_GREETING_03:0 "Seeing [From.GetAdj] makes me feel like I've lost some of my inherent superiority already. Very well, get on with it. What drivel do you wish to discuss with us?"
+
+ ES_NEUTRAL_GREETING_01:0 "We hope your nation is ruled by the betters of [From.GetAdj] society, and not its working class scum."
+
+ ES_FRIENDLY_GREETING_03:0 "[From.GetAdj] high culture is quite popular among the elites of the [Root.GetName]. It is clear you understand our values well."
+
+ ES_WAR_GREETING_03:0 "Let us show the [From.GetAdj] the true way of things - that in this universe, some were born to rule, and others to grovel at their feet, and we are without doubt the former."
+
+ ES_VASSAL_GREETING_01:0 "Ah! Our superiors from the [From.GetName]. How shall we oppress both [From.GetAdj] and [Root.GetAdj] working class scum today?"
+
+ ES_VASSAL_GREETING_DISLOYAL_01:0 "It is tragic that we must take orders from the likes of the [From.GetAdj]. Mark our words - we do not forget our humiliations, and when we become powerful once more, you shall be taught your place!"
+
+ XM_HOSTILE_GREETING_02:0 "[From.GetAdj], can't you see the tragedy you will wring upon yourselves? The sadness and melancholy of your existences? Why not bring joy instead to the universe?"
+
+ XM_HOSTILE_GREETING_10:0 "Although the [From.GetAdj] are renowned for their charisma, we are afraid that you only use it to mask the insecurities and uncertainties that plague your society, as we don't feel any sense of genuine joy in your festivities and celebrations."
+
+ XM_DOMINEERING_GREETING_03:0 "We've heard that the [From.GetAdj] liquor industry is in poor shape. Not much a surprise, as reports suggest the [From.GetName] does not devote enough resources to the happiness and merriment of its people."
+
+ XM_NEUTRAL_GREETING_06:0 "We see potential in you, [From.GetAdj]. Why don't you visit us and see how we party? Let us learn from each other. I'm sure you have much to teach us about dancing, drinking, and loving life."
+
+ XM_NEUTRAL_GREETING_13:0 "It is scientifically proven that regular relaxation, celebration, and festivities can dramatically increase the productivity of any sentient being, [Root.GetAdj] or [From.GetAdj]."
+
+ XM_THREATENED_GREETING_02:0 "We have heard that [From.GetAdj] hosts the some of best parties and the best festivals in the galaxy. One has to wonder what is the secret to your success...."
+
+ XM_THREATENED_GREETING_03:0 "The quality of [From.GetAdj] liquor must be very high! We are sure it is the main reason for your great power and prestige across this galaxy."
+
+ XM_FRIENDLY_GREETING_02:0 "There is nothing better than drinking a [Root.GetAdj] drink! Come, join us - let us celebrate the joys of the universe together. Laugh and be merry!"
+
+ XM_FRIENDLY_GREETING_04:0 "[From.GetAdj] are a welcome sight at any festivity. No matter what, you bring joy to us and to the universe."
+
+ XM_FRIENDLY_GREETING_07:0 "Would you like to try some of the finest and strongest [Root.GetAdj] spirits? Guaranteed to knock you out! Let's drink ourselves silly and continue with the negotiations afterwards. Tomorrow, even!"
+
+ XM_FRIENDLY_GREETING_09:0 "A toast to life! To your health, [From.GetAdj]!"
+
+ XM_VASSAL_GREETING_03:0 "Sorry, but I am completely wasted right now! This isn't rudeness! This is how [Root.GetAdj] greet each other! This is completely normal! An honor! Come drink with us!"
+
+ VH_HOSTILE_GREETING_04:0 "Wars begin and end the same way. Heroism and gallantry, noble virtues will be destroyed by such base conditions as hunger and exhaustion. Do not let our disagreements spiral out of control, [From.GetAdj], and cause unnecessary suffering! "
+
+ VH_DOMINEERING_GREETING_01:0 "Let your weakness be a strength, [From.GetAdj]. Though you may be minor in power, your invisibility is protection. Hope that the greater nations never notice you, so that you may never be involved in a terrible conflict."
+
+ VH_DOMINEERING_GREETING_03:0 "Your military is not up to par. Be careful, [From.GetAdj]. Nations greater than you who ignored their defenses have fallen to the yoke of tyranny and greed and great suffering."
+
+ VH_NEUTRAL_GREETING_06:0 "Behind every gun is a [Root.GetAdj]. We are the jaded, the naive. We are the honorable, the criminal. We are the bound for legend, and the lost to history. We are the knights of the stars, the ghosts in the void."
+
+ VH_THREATENED_GREETING_02:0 "Our valiant hearts have shown, time and time again, [Root.GetAdj] to be true defenders of noble values. It is a threat even great empires such as the [From.GetName] will fear if they are foolish enough to attack us."
+
+ VH_THREATENED_GREETING_03:0 "Beware, [From.GetAdj]! Your strength can be a weakness. Do not seduce yourself with false promises of glory in wars of conquest and adventure, for there is no glory in such."
+
+ VH_FRIENDLY_GREETING_07:0 "[From.GetAdj], you who are noble and wise, let us work together so whatever remaining innocents in this galaxy do not share that fate!"
+
+ VH_WAR_GREETING_09:0 "We know why you come. You come for our riches. This is the greed that turns [Root.GetAdj] and [From.GetAdj] into monsters. And monsters know only war."
+
+ VH_VASSAL_GREETING_03:0 "Great and unending are your armies and fleets, [From.GetAdj]. We only hope that great and unending is also your dedication to the principles of peace!"
+
+ VH_VASSAL_GREETING_DISLOYAL_02:0 "Some may consider us cowards for bowing before such an unlikeable nation as the [From.GetName]. We consider it an act of bravery, to resist the urge to cause unnecessary bloodshed and the deaths of innocent [Root.GetAdj] and [From.GetAdj], and instead endure the unendurable under your tyranny."

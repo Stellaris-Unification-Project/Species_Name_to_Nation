@@ -1,0 +1,12 @@
+﻿# Surveyor
+# By ViolentBeetle
+
+l_english:
+
+ mem_surveyor.241.desc:0 "One of the [escapee_species.GetAdj] survivors of the Berserker Probe's attack on [conquered_planet.GetName] has apparently ended up in the territory of the [From.GetName].\n\nSomehow accepted into one of the marauder clans, [mem_surveyor_avengers_leader.GetSheHe] ended up rousing more adventurous [From.GetSpeciesNamePlural] with promises of fame, fortune or some variation thereof into joining [mem_surveyor_avengers_leader.GetHerHim] on a quest to track down and destroy the Berserker Probe.\n\nNow commanding a sizable flotilla, [mem_surveyor_avengers_leader.GetSheHe] [mem_surveyor_avengers_leader.GetIsAre] addressing the galaxy."
+
+ mem_surveyor.243.desc.3.1:0 "The Berserker Probe is heading towards you, [Root.GetAdj]. When it strikes, I hope you have the courage to fight it with honour. Do not falter, even if odds are not in your favour."
+
+ mem_surveyor.243.2.a.response:0 "And what does become me, [Root.GetAdj]?\n\nGetting slaughtered by the Berserker Probe as my government watches helplessly, like a good dwamak would.\n\nI chosen my path.\n\nHYEEIIIIEEEEE!!!!!"
+
+ mem_surveyor.300.desc:0 "[Leader.GetName] reports that [Leader.GetHisHer] survey has been inconclusive so far. The amount of artifacts on [From.GetName] is immense, and so is the damage they sustained. Both defy the surveying capacities of the [Root.GetName] or any other [Owner.GetAdj] mobile laboratory.\n\nThe best course of action would be to construct a research station above the broken world and hope that sifting through the remnants will paint a clearer picture."

@@ -1,0 +1,71 @@
+﻿l_english:
+
+ distar.1.desc:0 "Our crew aboard the [Root.GetName] report that the [From.GetName] shipwreck appears to have been the result of an unexpected geomagnetic solar storm. The supply ship suffered a complete loss of life-support systems and sustained inoperable damage, drifting until it entered [From.GetName]'s gravity well. There are no survivors.\n\nThe ship's cargo-hold does indeed contain a notable amount of minerals - however, the captain of the [Root.GetName] cautions that the construction indicates §Y[wreckage_owner.GetAdj]§! design.\n\nIt is highly likely that the minerals belong to the §Y[wreckage_owner.GetName]§!, and they may be displeased should we lay claim to their shipment."
+
+ distar.2.desc:0 "[Root.GetSpeciesNamePlural]. It has come to our attention that a missing §Y[wreckage_owner.GetAdj]§! supply ship sustained terminal damage en route to §Y[wreckage_owner.Capital.GetName]§! and drifted into [Root.GetAdj] space, where it was promptly and unceremoniously pilfered of its cargo.\n\nDid you really believe this transgression would go unnoticed? The §Y[wreckage_owner.GetName]§! requests the immediate reimbursement of our supplies."
+
+ distar.2.desc.machi:0 "[Root.GetSpeciesNamePlural]. It has come to our attention that a missing §Y[wreckage_owner.GetAdj]§! supply ship sustained terminal damage on its path to §Y[wreckage_owner.Capital.GetName]§!. Our sensors report our vessel entered the [From.From.GetName] system, where your kind emptied its cargo for your own uses.\n\nUnacceptable. Return our cargo at once, [Root.GetSpeciesNamePlural]."
+
+ distar.3.desc:0 "[Root.GetSpeciesNamePlural]! We have received word of our downed supply ship's cargo. We would like to extend our gratitude to you for taking the time to recover it, without the need for [wreckage_owner.GetAdj] intervention."
+
+ distar.7.desc.nocol:0 "Sensors have registered a massive spike in [Root.GetStarName]'s luminosity. It appears the star is experiencing a superflare, not unlike the one that destroyed the civilization on [frozen_in_time_planet.GetName].\n\nFortunately for us, however, there are no [Root.GetAdj] colonies that will be affected by this solar turbulence."
+
+ distar.27.desc:0 "[Root.Owner.GetAdj] [Root.Owner.GetScientistPlural] have expressed interest in studying the ancient robots on [Root.GetName], and the demise of the civilization that created them. Thus far, researchers have found no definitive proof of what eradicated the robots' makers - a puzzle exacerbated by the centuries that have long since turned any biological remains to dust.\n\nInspection of the planet has ruled out nuclear annihilation and extensive warfare as extinction events, but still the reason behind their disappearance eludes us.\n\nResearchers recommend launching a more intensive study of the ancient robots' hardware in an attempt to glean further insights."
+
+ distar.51.desc:0 "The Amoeba juvenile that joined our fleet some time ago appears to have reached full maturity. Now an impressive adult, she is no less loyal to the ships that gave her a new home when she was stranded on [From.From.GetName].\n\nHer time spent with the fleet appears to have encouraged adaptive behaviors not typically found in wild Space Amoebas, making her a more formidable presence on the battlefield than others of her kind. Across [Root.Owner.GetName], her image has become something of a mascot for the [Root.Owner.GetAdj] spirit.\n\nOnly one question remains: what should we name her?"
+
+ distar.63.desc:0 "§EWe receive a flurry of data in response - including cartographic imaging of a neighboring galaxy, and footage of what can only be engineers working on an alien FTL drive.\n\nWe can draw no other conclusion than that these are explorers from another galaxy. Their ship's lack of weapons capacity would support this theory.\n\nWe send back footage of [Root.GetAdj] explorers on their first journey beyond our solar system, and the reaction from the alien crew appears to be jubilant.§!"
+
+ distar.82.a.tt:0 "Every §H[worshipper_species.GetAdj]§! pop gains the modifier §Y$conviction$§! for §Y240§! months, granting §G+33%§! Happiness and §G+25%§! Resources from £pop£ Jobs."
+
+ distar.90.desc:0 "Closer study of [From.GetName] has revealed that the planet's primary chemical composition is in fact identical to an ester found in berries on [Root.Owner.Capital.GetName], which the locals have been distilling into inebriants for thousands of years. The ester on [From.GetName] likely comes from the nebula that cloaks the system, containing billions of liters of the same substance.\n\nScience Officer [Root.GetLeaderName] has secured several samples of the familiar ester - and after rigorous biohazard testing has even sampled it, describing the scent and taste as 'a little taste of home, within the chill of the void'. The crew of the [Root.GetName] suggests that such an exotic variant of the well-known [Root.Owner.GetAdj] beverage could be quite popular among our citizens."
+
+ distar.93.desc:0 "What is the meaning of this, [Root.GetAdj]? You seek to poison us with this foul liquid? How facultatively challenged do you think we are?\n\nEnsign, airlock that entire odious shipment, and close the channel!"
+
+ distar.100.desc:0 "Detailed study has revealed that [From.GetName]'s magnetic field was so attractive to drones in orbit due to the unique frequency at which it oscillates. It just so happens that the planet's magnetosphere resonates at a rate that produces a focusing effect on the [Root.Owner.GetAdj] neural network.\n\nShould we inhabit [From.GetName], any [Root.Owner.GetSpeciesNamePlural] on the surface would be able to constantly enjoy the benefits of this magnetic resonance."
+
+ distar.161.a.machi:0 "Negative. [Root.GetAdj] units are not your makers."
+
+ distar.162.a.machi:1 "[Root.GetAdj] units preformed repairs to your systems."
+
+ distar.172.a.tooltip:0 "Several [Root.Owner.GetAdj] leaders and pops will gain the trait §Y$trait_brainslug$§!.\nAny future [Root.Owner.GetAdj] leaders, rulers, and pops will have a chance of gaining the trait §Y$trait_brainslug$§!."
+
+ distar.172.b.tooltip:0 "Deny [Root.Owner.GetAdj] citizens knowledge of the brain slugs' offer."
+
+ distar.198.desc:0 "The terraforming of [From.GetName] into a sealess landscape has had a predictable, but unavoidable outcome. The strange sea of consciousness on the planet's surface has been completely disrupted by our terraforming process, and has lost the unique properties that qualified it as a living being to our survey team.\n\n[Root.GetAdj] scientists lament the missed research opportunities that the loss of such a unique galactic entity will entail."
+
+ distar.211.desc:0 "A creature of legend swims languorously between the gas giants in the [Root.GetStarName] system. Larger than any Tiyanki on record - indeed, larger than any of our projections could have allowed for, a space whale of impossible proportions seems to have made her nest here. With tentacles longer than a [Root.Owner.GetAdj] battleship, this magnificent Matriarch's glowing hide stands out startlingly against the void of space. She is old, remarkably so, a veritable ancient covered end to end in battle scars and strange growths.\n\nA gigantic, unexploded proton torpedo is lodged in the venerable creature's back, and the fractured remains of ships in the system speak of what manner of fate befell any vessels that strayed too close."
+
+ distar.211.desc.first_enc:0 "A creature of legend swims languorously between the gas giants dotting the [Root.GetStarName] system. With tentacles longer than a [Root.Owner.GetAdj] battleship, her gargantuan proportions defy all of our previous encounters with organic life. The creature's magnificent glowing hide stands out startlingly against the void of space. She appears to be quite old, remarkably so -- a veritable ancient covered end to end in battle scars and strange growths.\n\nA gigantic, unexploded proton torpedo is lodged in the venerable Matriarch's back, and the fractured remains of ships in the system speak of what manner of fate befell any vessels that strayed too close."
+
+ distar.5070.desc:1 "Following an unprovoked assault from the [cache_killers.GetAdj], BALDOR XXXXIII has dematerialized and the ascension of our people has been terminated. We believe the tubular alien entity, which was already in poor condition, was especially vulnerable during the ascension and suffered significant damage to its core functions in the attack. As it departed it transmitted the message "I am BALDOR XXX...""
+
+ distar.5070.a:1 "The [cache_killers.GetAdj] will pay."
+
+ distar.5078.desc:0 "In the tumultuous aftermath of the loss of [FromFromFrom.GetName] to [From.GetAdj] invading forces, BALDOR XXXXIII has dematerialized and the ascension of our people has been terminated. We believe the tubular alien entity, which was already in poor condition, accidentally came under enemy fire and suffered significant damage to its core functions. As it departed it sent out a final distress message; "I am BALDOR XXX.""
+
+ distar.5078.a:0 "The [From.GetAdj] will pay."
+
+ distar.3013.a.xenophile:0 "Astonishing. Every [Root.GetAdj] should have one!"
+
+ distar.3013.a:0 "Excellent. [Root.GetAdj] society could use them."
+
+ distar.3013.a.swarm:0 "[Root.GetAdj] society could use them... as fodder."
+
+ distar.3017.desc:0 "The integration of the fungoid $NAME_Nivlac$ into [Root.Owner.GetAdj] society is underway.\n\nThe interactions between $NAME_Nivlacs$ and [Root.Owner.GetSpeciesNamePlural] continue to be positive, and our species appear to be headed down a promising road together."
+
+ distar.3017.desc.assim:0 "The assimilation of the fungoid $NAME_Nivlac$ into [Root.Owner.GetAdj] society is underway.\n\nWhile the $NAME_Nivlac$ are resistant toward the process, their consciousnesses will eventually be sublimated into the [Root.GetAdj] whole."
+
+ distar.3032.desc:0 "The integration of the molluscoids into [Root.Owner.GetAdj] society is complete.\n\nTo facilitate the integration, they have been given the name §Y[molluscoid_miners_species.GetName]§!. The [molluscoid_miners_species.GetName] are obedient and hardworking, and a marked increase in our mineral production has already been observed."
+
+ distar.3057.desc.stronger:1 "The §Rred§! gene-modification solution has been successfully administered to the [Root.GetAdj] people.\n\nBased on preliminary observations of early subjects, the solution appears to make us more social."
+
+ distar.3057.desc.adaptive:0 "The §Ggreen§! gene-modification solution has been successfully administered to the [Root.GetAdj] people.\n\nBased on preliminary observations of early subjects, the solution appears to improve our ability to adapt to our environment."
+
+ distar.3057.desc.longlived:0 "The §Bblue§! gene-modification solution has been successfully administered to the [Root.GetAdj] people.\n\nBased on preliminary observations of early subjects, the solution appears to increase our potential lifespan."
+
+ molluscoid_miners_project_2_DESC:0 "Commence the integration of the molluscoid miners into [Root.Owner.GetAdj] society."
+
+ graygoo.11.desc:1 "Scientists from the §H[From.GetName]§! managed to restore functionality to the L-Gate within their territory, beating us to it. Unfortunately, this seems to have triggered an invasion of our galaxy by the cluster's inhabitants - aggressive nanomachines that attack everything in sight!\n\nThe [From.GetAdj] scientists managed to shut down their gate before the invasion force arrived, but this only diverted them to the other L-Gates of the galaxy, that are now fully active!\n\nAll attempts to communicate with these invading nanites have failed. In the wake of their passage through the L-Gates, we have detected a repeating wide-band subspace transmission emanating from the L-Cluster."
+
+ KET_DEMAND_TRIBUTARY_REFUSE:0 "No! We will not! We do not need [From.GetAdj] promises. You will get nothing from us."

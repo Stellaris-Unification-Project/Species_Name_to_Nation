@@ -1,0 +1,4 @@
+﻿l_english:
+
+ crisis.2091.c.desc:0 "A [Root.Owner.GetAdj] repair crew conducting routine maintenance on some of the civilian infrastructure in low orbit over §H[Root.GetName]§! were recently revealed as Synthetic infiltrators when they used explosive devices to deliberately trigger several uncontrolled re-entries.\n\nThe resulting impacts on the [Root.GetPlanetMoon]'s surface caused millions of deaths and significant structural damage."
+

@@ -1,0 +1,23 @@
+﻿l_english:
+
+ marauder.101.1.desc:0 "[Root.GetAdj] weaklings, our warriors are on their way to plunder your systems. Face them in battle if you can muster the courage, or cower in fear until they have had their fill of your riches.\n\nYou can, of course, offer tribute now to spare yourselves from the coming onslaught. If it is sufficient, our warriors may be compelled to turn back..."
+
+ marauder.101.2.desc:0 "HYEEEIIIIIEEEEEE!!!!!!! [Root.GetAdj]-dwamaks! We come visit your systems! We save you from growing too rich and fat, yes!\n\nUnless you think of reason why you not make good dwamak-stew..."
+
+ marauder.102.3.a.response:0 "She of the Void is pleased. This sacrifice has lightened Her spirits, and She has permitted Her warriors to withdraw. Fare thee well, [Root.GetAdj]."
+
+ marauder.102.1.b.response:0 "I... y-you... my physical appearance has... has nothing to do with...\n\nYou will regret this slight, [Root.GetAdj]. Our warriors will burn your pathetic fleets to cinders!"
+
+ marauder.121.1.desc:0 "Cowards huddling in darkness have asked us to face you, since they are too afraid to do so themselves. Are there any [Root.GetAdj] warriors honorable enough to meet us in open battle, then, or must we plunder your systems unopposed? Show us your worth!"
+
+ marauder.550.k.desc:0 "You speak to me on behalf of the [Root.GetAdj] Satrapy, yes? The... [Root.GetName], I believe. What can your Great Khan do for you?"
+
+ marauder.550.p.desc:0 "You were wise to submit to my rule. This decision saved countless [Root.GetAdj] lives."
+
+ marauder.550.a.2.response:0 "Do you think I am fool enough to trust [Root.GetAdj] lies a second time? No, this time the fight is to the end. You have forfeited your right to exist in the new galactic order I am building."
+
+ marauder.551.a.response:0 "You may now consider yourselves loyal servants of the Great Khan of the [raider_khanate.GetName]. With the signing of this accord, countless [Root.GetAdj] lives have been saved. This is a great day for the [Root.GetName].\n\nOnce my conquest of the galaxy has been completed, we shall see about revising the Satrapy system and perhaps integrating your realm more closely into my empire. Until then, I leave you to rule yourselves."
+
+ marauder.550.r.desc:0 "I trusted you, [Root.GetAdj]. I offered you a seat at my table... and in return, you spat in my face."
+
+ marauder.550.u.desc:0 "You have made this personal, [Root.GetAdj]."

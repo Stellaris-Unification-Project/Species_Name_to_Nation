@@ -1,0 +1,5 @@
+﻿l_english:
+
+ wg_leave_hegemony_accept:0 "§Y[Root.GetName]§! secedes from the §Y[From.GetAllianceName]§!\n§Y[From.GetName]§! revokes all claims on §Y[Root.GetAdj]§! systems."
+
+ fedev.500.e.desc:0 "$fedev.500.intro$\n\nThis grand Hegemony will ensure the safety of its junior members through the enlightened leadership of its ruling Hegemon.\n\nA new era of [fed_founder_1.GetAdj] dominance has begun!"

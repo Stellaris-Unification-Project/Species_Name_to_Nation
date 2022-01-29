@@ -1,0 +1,8 @@
+﻿#Blacksite
+#By ViolentBeetle
+
+l_english:
+
+ mem_blacksite.400.desc:0 "[Root.GetAdj]! Good news. The project that we were conducting within your territory is officially concluded. \n\nNot only did it end with great success, we have also managed to avoid complete destruction of any of your systems. Isn't it wonderful? \n\nYou were an exemplary collaborator, and you deserve to be rewarded for your contribution."
+
+ mem_blacksite.610.desc:0 "Did you really think we wouldn't know that you rummaged through our black site, [Root.GetAdj]?! Did you really think there wouldn't be any consequences? \n\nThis is your last warning. Return §Y[blacksite_recovered_leader.GetName]§! to us and you will be forgiven. Refuse, and not only draw our ire, but also face the consequences of harbouring dangerously unstable individuals of immense power."

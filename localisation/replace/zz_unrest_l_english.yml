@@ -1,0 +1,7 @@
+﻿l_english:
+
+ unrest.110.desc:0 "Thanks to the quick and decisive action of [Root.Owner.GetAdj] forces working with civilians on §Y[Root.GetName]§!, the threat of imminent and violent riots has been quelled."
+
+ unrest.4220.desc:0 "Greetings, [Root.GetRulerTitle] [Root.GetRulerName]. I am [From.GetRulerTitle] [From.GetRulerName] of the [From.GetName], and I speak for the people of [From.From.GetName].\n\nWe recently broke free of the clutches of the [rebelled_against.GetName]. We are a young nation, and still an easy target for more... predatory powers. Many of us look back fondly on [Root.GetAdj] rule of this planet - we humbly request that you take us back into the fold."
+
+ unrest.168.desc:0 "Greetings [Root.GetAdj]. We are freedom fighters - former slaves - from the [old_owner.GetName], where we suffered much abuse under the oppression of [old_owner.GetRulerTitle] [old_owner.GetRulerName]. We have long admired your egalitarian standards, the "[new_owner.GetSpeciesAdj]" way, as we would refer to it back home, and we share your values. We have seceded and wish to be a part of your nation, if you will have us?"
